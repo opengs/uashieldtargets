@@ -8,6 +8,10 @@
     "atack": 1
   },
   {
+    "page": "https://www.nalog.gov.ru/",
+    "atack": 1
+  },
+  {
     "page": "https://ria.ru/",
     "atack": 1
   },
@@ -20,7 +24,11 @@
     "atack": 1
   },
   {
-    "page": "http://tass.ru/",
+    "page": "http://tass.ru",
+    "atack": 1
+  },
+  {
+    "page": "http://ya.ru/",
     "atack": 1
   },
   {
@@ -28,12 +36,27 @@
     "atack": 1
   },
   {
-    "page": "https://gosuslugi.ru/",
+    "page": "https://gosuslugi.ru",
     "atack": 1
   },
   {
     "page": "http://ddos-guard.net/",
     "atack": 1
+  },
+  {
+    "page": "http://3dsec.sberbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://yandex.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://api.sberbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.mos.ru/uslugi/",
+    "atack": 1
   }
 ]
-  
