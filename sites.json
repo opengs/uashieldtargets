@@ -1,6 +1,6 @@
 [
   {
-    "page": "https://online.sberbank.ru/",
+    "page": "http://online.sberbank.ru/",
     "atack": 1
   },
   {
@@ -24,7 +24,7 @@
     "atack": 1
   },
   {
-    "page": "https://www.gazeta.ru/",
+    "page": "http://www.gazeta.ru/",
     "atack": 1
   },
   {
@@ -36,11 +36,11 @@
     "atack": 1
   },
   {
-    "page": "https://www.nalog.gov.ru/",
+    "page": "http://www.nalog.gov.ru/",
     "atack": 1
   },
   {
-    "page": "https://ria.ru/",
+    "page": "http://ria.ru/",
     "atack": 1
   },
   {
@@ -64,7 +64,7 @@
     "atack": 1
   },
   {
-    "page": "https://gosuslugi.ru",
+    "page": "http://gosuslugi.ru",
     "atack": 1
   },
   {
@@ -80,7 +80,7 @@
     "atack": 1
   },
   {
-    "page": "https://www.mos.ru/uslugi/",
+    "page": "http://www.mos.ru/uslugi/",
     "atack": 1
   },
   {
@@ -720,131 +720,131 @@
     "atack": 1
   },
   {
-    "page": "https://360tv.ru/",
+    "page": "http://360tv.ru/",
     "atack": 1
   },
   {
-    "page": "https://dnr-news.com/",
+    "page": "http://dnr-news.com/",
     "atack": 1
   },
   {
-    "page": "https://dnronline.su/",
+    "page": "http://dnronline.su/",
     "atack": 1
   },
   {
-    "page": "https://eadaily.com/",
+    "page": "http://eadaily.com/",
     "atack": 1
   },
   {
-    "page": "https://iz.ru/tag/vladimir-putin",
+    "page": "http://iz.ru/tag/vladimir-putin",
     "atack": 1
   },
   {
-    "page": "https://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
+    "page": "http://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
     "atack": 1
   },
   {
-    "page": "https://life.ru/",
+    "page": "http://life.ru/",
     "atack": 1
   },
   {
-    "page": "https://lukoil.ru",
+    "page": "http://lukoil.ru",
     "atack": 1
   },
   {
-    "page": "https://m.lenta.ru/",
+    "page": "http://m.lenta.ru/",
     "atack": 1
   },
   {
-    "page": "https://more.tv/online/russia1_hd",
+    "page": "http://more.tv/online/russia1_hd",
     "atack": 1
   },
   {
-    "page": "https://more.tv/online/russia1_hd",
+    "page": "http://more.tv/online/russia1_hd",
     "atack": 1
   },
   {
-    "page": "https://mosmetro.ru/",
+    "page": "http://mosmetro.ru/",
     "atack": 1
   },
   {
-    "page": "https://news.ru/",
+    "page": "http://news.ru/",
     "atack": 1
   },
   {
-    "page": "https://rg.ru/",
+    "page": "http://rg.ru/",
     "atack": 1
   },
   {
-    "page": "https://smotrim.ru/brand/21385",
+    "page": "http://smotrim.ru/brand/21385",
     "atack": 1
   },
   {
-    "page": "https://smotrim.ru/brand/60851",
+    "page": "http://smotrim.ru/brand/60851",
     "atack": 1
   },
   {
-    "page": "https://sputniknews.com",
+    "page": "http://sputniknews.com",
     "atack": 1
   },
   {
-    "page": "https://tass.ru/",
+    "page": "http://tass.ru/",
     "atack": 1
   },
   {
-    "page": "https://tvzvezda.ru",
+    "page": "http://tvzvezda.ru",
     "atack": 1
   },
   {
-    "page": "https://vesti7.ru",
+    "page": "http://vesti7.ru",
     "atack": 1
   },
   {
-    "page": "https://wagnera.ru/",
+    "page": "http://wagnera.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.1tv.ru",
+    "page": "http://www.1tv.ru",
     "atack": 1
   },
   {
-    "page": "https://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
+    "page": "http://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
     "atack": 1
   },
   {
-    "page": "https://www.fontanka.ru/",
+    "page": "http://www.fontanka.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.gazprom.ru/",
+    "page": "http://www.gazprom.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.investing.com/",
+    "page": "http://www.investing.com/",
     "atack": 1
   },
   {
-    "page": "https://www.kp.ru/",
+    "page": "http://www.kp.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.m24.ru/",
+    "page": "http://www.m24.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.mk.ru/",
+    "page": "http://www.mk.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.ntv.ru/",
+    "page": "http://www.ntv.ru/",
     "atack": 1
   },
   {
-    "page": "https://www.sberbank.ru/ru/person",
+    "page": "http://www.sberbank.ru/ru/person",
     "atack": 1
   },
   {
-    "page": "https://www.vokrug.tv/product/show/poedinok/",
+    "page": "http://www.vokrug.tv/product/show/poedinok/",
     "atack": 1
   },
   {
@@ -852,7 +852,7 @@
     "atack": 1
     },
     {
-        "page": "https://103.224.182.246",
+        "page": "http://103.224.182.246",
         "atack": 1
     },
     {
@@ -860,7 +860,7 @@
         "atack": 1
     },
     {
-        "page": "https://104.21.62.54",
+        "page": "http://104.21.62.54",
         "atack": 1
     },
     {
@@ -868,7 +868,7 @@
         "atack": 1
     },
     {
-        "page": "https://104.21.81.83",
+        "page": "http://104.21.81.83",
         "atack": 1
     },
     {
@@ -876,7 +876,7 @@
         "atack": 1
     },
     {
-        "page": "https://104.247.216.26",
+        "page": "http://104.247.216.26",
         "atack": 1
     },
     {
@@ -884,7 +884,7 @@
         "atack": 1
     },
     {
-        "page": "https://106.75.11.20",
+        "page": "http://106.75.11.20",
         "atack": 1
     },
     {
@@ -892,7 +892,7 @@
         "atack": 1
     },
     {
-        "page": "https://15.197.142.173",
+        "page": "http://15.197.142.173",
         "atack": 1
     },
     {
@@ -900,7 +900,7 @@
         "atack": 1
     },
     {
-        "page": "https://151.106.103.63",
+        "page": "http://151.106.103.63",
         "atack": 1
     },
     {
@@ -908,7 +908,7 @@
         "atack": 1
     },
     {
-        "page": "https://162.210.101.54",
+        "page": "http://162.210.101.54",
         "atack": 1
     },
     {
@@ -916,7 +916,7 @@
         "atack": 1
     },
     {
-        "page": "https://172.91.83.238",
+        "page": "http://172.91.83.238",
         "atack": 1
     },
     {
@@ -924,7 +924,7 @@
         "atack": 1
     },
     {
-        "page": "https://178.62.16.18",
+        "page": "http://178.62.16.18",
         "atack": 1
     },
     {
@@ -932,7 +932,7 @@
         "atack": 1
     },
     {
-        "page": "https://178.63.111.52",
+        "page": "http://178.63.111.52",
         "atack": 1
     },
     {
@@ -940,7 +940,7 @@
         "atack": 1
     },
     {
-        "page": "https://185.181.104.74",
+        "page": "http://185.181.104.74",
         "atack": 1
     },
     {
@@ -948,7 +948,7 @@
         "atack": 1
     },
     {
-        "page": "https://199.79.62.185",
+        "page": "http://199.79.62.185",
         "atack": 1
     },
     {
@@ -956,7 +956,7 @@
         "atack": 1
     },
     {
-        "page": "https://205.178.189.131",
+        "page": "http://205.178.189.131",
         "atack": 1
     },
     {
@@ -964,7 +964,7 @@
         "atack": 1
     },
     {
-        "page": "https://208.91.197.26",
+        "page": "http://208.91.197.26",
         "atack": 1
     },
     {
@@ -972,7 +972,7 @@
         "atack": 1
     },
     {
-        "page": "https://217.160.0.26",
+        "page": "http://217.160.0.26",
         "atack": 1
     },
     {
@@ -980,7 +980,7 @@
         "atack": 1
     },
     {
-        "page": "https://3.64.163.50",
+        "page": "http://3.64.163.50",
         "atack": 1
     },
     {
@@ -988,7 +988,7 @@
         "atack": 1
     },
     {
-        "page": "https://34.102.136.180",
+        "page": "http://34.102.136.180",
         "atack": 1
     },
     {
@@ -996,7 +996,7 @@
         "atack": 1
     },
     {
-        "page": "https://34.247.123.251",
+        "page": "http://34.247.123.251",
         "atack": 1
     },
     {
@@ -1004,7 +1004,7 @@
         "atack": 1
     },
     {
-        "page": "https://35.186.238.101",
+        "page": "http://35.186.238.101",
         "atack": 1
     },
     {
@@ -1012,7 +1012,7 @@
         "atack": 1
     },
     {
-        "page": "https://37.97.254.27",
+        "page": "http://37.97.254.27",
         "atack": 1
     },
     {
@@ -1020,7 +1020,7 @@
         "atack": 1
     },
     {
-        "page": "https://46.30.213.43",
+        "page": "http://46.30.213.43",
         "atack": 1
     },
     {
@@ -1028,7 +1028,7 @@
         "atack": 1
     },
     {
-        "page": "https://52.128.23.153",
+        "page": "http://52.128.23.153",
         "atack": 1
     },
     {
@@ -1036,7 +1036,7 @@
         "atack": 1
     },
     {
-        "page": "https://52.58.78.16",
+        "page": "http://52.58.78.16",
         "atack": 1
     },
     {
@@ -1044,7 +1044,7 @@
         "atack": 1
     },
     {
-        "page": "https://64.190.62.111",
+        "page": "http://64.190.62.111",
         "atack": 1
     },
     {
@@ -1052,7 +1052,7 @@
         "atack": 1
     },
     {
-        "page": "https://66.226.133.81",
+        "page": "http://66.226.133.81",
         "atack": 1
     },
     {
@@ -1060,7 +1060,7 @@
         "atack": 1
     },
     {
-        "page": "https://66.29.132.54",
+        "page": "http://66.29.132.54",
         "atack": 1
     },
     {
@@ -1068,7 +1068,7 @@
         "atack": 1
     },
     {
-        "page": "https://67.227.226.240",
+        "page": "http://67.227.226.240",
         "atack": 1
     },
     {
@@ -1076,7 +1076,7 @@
         "atack": 1
     },
     {
-        "page": "https://74.125.193.121",
+        "page": "http://74.125.193.121",
         "atack": 1
     },
     {
@@ -1084,7 +1084,7 @@
         "atack": 1
     },
     {
-        "page": "https://74.208.236.96",
+        "page": "http://74.208.236.96",
         "atack": 1
     },
     {
@@ -1092,7 +1092,7 @@
         "atack": 1
     },
     {
-        "page": "https://75.126.100.29",
+        "page": "http://75.126.100.29",
         "atack": 1
     },
     {
@@ -1100,7 +1100,7 @@
         "atack": 1
     },
     {
-        "page": "https://85.118.181.14",
+        "page": "http://85.118.181.14",
         "atack": 1
     },
     {
@@ -1108,7 +1108,7 @@
         "atack": 1
     },
     {
-        "page": "https://91.195.240.117",
+        "page": "http://91.195.240.117",
         "atack": 1
     },
     {
@@ -1116,7 +1116,7 @@
         "atack": 1
     },
     {
-        "page": "https://178.210.92.7",
+        "page": "http://178.210.92.7",
         "atack": 1
     },
     {
@@ -1124,7 +1124,7 @@
         "atack": 1
     },
     {
-        "page": "https://23.105.241.53",
+        "page": "http://23.105.241.53",
         "atack": 1
     },
     {
@@ -1132,7 +1132,7 @@
         "atack": 1
     },
     {
-        "page": "https://5.188.131.10",
+        "page": "http://5.188.131.10",
         "atack": 1
     },
     {
@@ -1140,7 +1140,7 @@
         "atack": 1
     },
     {
-        "page": "https://62.122.170.171",
+        "page": "http://62.122.170.171",
         "atack": 1
     },
     {
@@ -1148,7 +1148,7 @@
         "atack": 1
     },
     {
-        "page": "https://64.190.62.111",
+        "page": "http://64.190.62.111",
         "atack": 1
     },
     {
@@ -1156,7 +1156,7 @@
         "atack": 1
     },
     {
-        "page": "https://77.222.61.107",
+        "page": "http://77.222.61.107",
         "atack": 1
     },
     {
@@ -1164,7 +1164,7 @@
         "atack": 1
     },
     {
-        "page": "https://77.247.241.18",
+        "page": "http://77.247.241.18",
         "atack": 1
     },
     {
@@ -1172,7 +1172,7 @@
         "atack": 1
     },
     {
-        "page": "https://78.110.50.141",
+        "page": "http://78.110.50.141",
         "atack": 1
     },
     {
@@ -1180,7 +1180,7 @@
         "atack": 1
     },
     {
-        "page": "https://81.19.78.83",
+        "page": "http://81.19.78.83",
         "atack": 1
     },
     {
@@ -1188,7 +1188,7 @@
         "atack": 1
     },
     {
-        "page": "https://85.13.129.216",
+        "page": "http://85.13.129.216",
         "atack": 1
     },
     {
@@ -1196,7 +1196,7 @@
         "atack": 1
     },
     {
-        "page": "https://91.195.240.135",
+        "page": "http://91.195.240.135",
         "atack": 1
     },
     {
@@ -1204,7 +1204,7 @@
         "atack": 1
     },
     {
-        "page": "https://92.242.44.77",
+        "page": "http://92.242.44.77",
         "atack": 1
     },
     {
@@ -1212,7 +1212,7 @@
         "atack": 1
     },
     {
-        "page": "https://92.243.77.5",
+        "page": "http://92.243.77.5",
         "atack": 1
     },
     {
@@ -1220,7 +1220,7 @@
         "atack": 1
     },
     {
-        "page": "https://167.114.53.137",
+        "page": "http://167.114.53.137",
         "atack": 1
     },
     {
@@ -1228,7 +1228,7 @@
         "atack": 1
     },
     {
-        "page": "https://173.255.194.134",
+        "page": "http://173.255.194.134",
         "atack": 1
     },
     {
@@ -1236,7 +1236,7 @@
         "atack": 1
     },
     {
-        "page": "https://176.9.172.166",
+        "page": "http://176.9.172.166",
         "atack": 1
     },
     {
@@ -1244,7 +1244,7 @@
         "atack": 1
     },
     {
-        "page": "https://178.79.157.214",
+        "page": "http://178.79.157.214",
         "atack": 1
     },
     {
@@ -1252,7 +1252,7 @@
         "atack": 1
     },
     {
-        "page": "https://185.26.105.244",
+        "page": "http://185.26.105.244",
         "atack": 1
     },
     {
@@ -1260,7 +1260,7 @@
         "atack": 1
     },
     {
-        "page": "https://199.59.240.200",
+        "page": "http://199.59.240.200",
         "atack": 1
     },
     {
@@ -1268,7 +1268,7 @@
         "atack": 1
     },
     {
-        "page": "https://199.59.240.200",
+        "page": "http://199.59.240.200",
         "atack": 1
     },
     {
@@ -1276,7 +1276,7 @@
         "atack": 1
     },
     {
-        "page": "https://208.91.197.26",
+        "page": "http://208.91.197.26",
         "atack": 1
     },
     {
@@ -1284,7 +1284,7 @@
         "atack": 1
     },
     {
-        "page": "https://217.160.0.250",
+        "page": "http://217.160.0.250",
         "atack": 1
     },
     {
@@ -1292,7 +1292,7 @@
         "atack": 1
     },
     {
-        "page": "https://3.120.171.115",
+        "page": "http://3.120.171.115",
         "atack": 1
     },
     {
@@ -1300,7 +1300,7 @@
         "atack": 1
     },
     {
-        "page": "https://34.225.31.148",
+        "page": "http://34.225.31.148",
         "atack": 1
     },
     {
@@ -1308,7 +1308,7 @@
         "atack": 1
     },
     {
-        "page": "https://72.52.179.174",
+        "page": "http://72.52.179.174",
         "atack": 1
     },
     {
@@ -1316,7 +1316,7 @@
         "atack": 1
     },
     {
-        "page": "https://78.155.198.9",
+        "page": "http://78.155.198.9",
         "atack": 1
     },
     {
@@ -1324,7 +1324,7 @@
         "atack": 1
     },
     {
-        "page": "https://8.212.24.67",
+        "page": "http://8.212.24.67",
         "atack": 1
     },
     {
@@ -1332,7 +1332,7 @@
         "atack": 1
     },
     {
-        "page": "https://88.99.141.251",
+        "page": "http://88.99.141.251",
         "atack": 1
     },
     {
@@ -1340,7 +1340,7 @@
         "atack": 1
     },
     {
-        "page": "https://178.210.92.160",
+        "page": "http://178.210.92.160",
         "atack": 1
     },
     {
@@ -1348,7 +1348,7 @@
         "atack": 1
     },
     {
-        "page": "https://212.24.108.75",
+        "page": "http://212.24.108.75",
         "atack": 1
     },
     {
@@ -1356,7 +1356,7 @@
         "atack": 1
     },
     {
-        "page": "https://216.239.32.21",
+        "page": "http://216.239.32.21",
         "atack": 1
     },
     {
@@ -1364,7 +1364,7 @@
         "atack": 1
     },
     {
-        "page": "https://31.31.205.163",
+        "page": "http://31.31.205.163",
         "atack": 1
     },
     {
@@ -1372,7 +1372,7 @@
         "atack": 1
     },
     {
-        "page": "https://37.140.192.51",
+        "page": "http://37.140.192.51",
         "atack": 1
     },
     {
@@ -1380,7 +1380,7 @@
         "atack": 1
     },
     {
-        "page": "https://37.200.71.245",
+        "page": "http://37.200.71.245",
         "atack": 1
     },
     {
@@ -1388,7 +1388,7 @@
         "atack": 1
     },
     {
-        "page": "https://52.128.23.153",
+        "page": "http://52.128.23.153",
         "atack": 1
     },
     {
@@ -1396,7 +1396,7 @@
         "atack": 1
     },
     {
-        "page": "https://52.128.23.153",
+        "page": "http://52.128.23.153",
         "atack": 1
     },
     {
@@ -1404,7 +1404,7 @@
         "atack": 1
     },
     {
-        "page": "https://64.190.62.111",
+        "page": "http://64.190.62.111",
         "atack": 1
     },
     {
@@ -1412,7 +1412,7 @@
         "atack": 1
     },
     {
-        "page": "https://66.81.199.56",
+        "page": "http://66.81.199.56",
         "atack": 1
     },
     {
@@ -1420,7 +1420,7 @@
         "atack": 1
     },
     {
-        "page": "https://81.169.145.95",
+        "page": "http://81.169.145.95",
         "atack": 1
     },
     {
@@ -1428,7 +1428,7 @@
         "atack": 1
     },
     {
-        "page": "https://91.195.240.94",
+        "page": "http://91.195.240.94",
         "atack": 1
     }
 ]
