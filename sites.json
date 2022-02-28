@@ -1,5 +1,9 @@
 [
   {
+    "page": "http://online.vtb.ru/",
+    "atack": 1
+  },
+  {
     "page": "http://vesti.ru/",
     "atack": 1
   },
@@ -69,6 +73,26 @@
   },
   {
     "page": "http://www.tinkoff.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://admin.gazprombank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://api.developer.sber.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://alfabank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://bankdabrabyt.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://belarus24.by",
     "atack": 1
   }
 ]
