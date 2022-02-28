@@ -1,5 +1,13 @@
 [
   {
+    "page": "http://vesti.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.gazeta.ru/",
+    "atack": 1
+  },
+  {
     "page": "http://reglament.council.gov.ru/",
     "atack": 1
   },
