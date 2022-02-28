@@ -1,7 +1,39 @@
 [
-    {
-      "page": "http://www.tinkoff.ru/",
-      "atack": 1
-    }
+  {
+    "page": "http://reglament.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://lenta.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://ria.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rbc.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://cbr.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://tass.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://rt.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://gosuslugi.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://ddos-guard.net/",
+    "atack": 1
+  }
 ]
   
