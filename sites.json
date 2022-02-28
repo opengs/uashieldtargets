@@ -1,5 +1,21 @@
 [
   {
+    "page": "https://online.sberbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.kremlin.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://mil.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://rg.ru/",
+    "atack": 1
+  },
+  {
     "page": "http://online.vtb.ru/",
     "atack": 1
   },
@@ -60,10 +76,6 @@
     "atack": 1
   },
   {
-    "page": "http://yandex.by/",
-    "atack": 1
-  },
-  {
     "page": "http://api.sberbank.ru/",
     "atack": 1
   },
@@ -88,11 +100,27 @@
     "atack": 1
   },
   {
-    "page": "http://bankdabrabyt.by/",
+    "page": "http://vtb.com/",
     "atack": 1
   },
   {
-    "page": "http://goszakupki.by/",
+    "page": "http://ach.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://agrarian.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://alfaradio.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://archive.government.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://bankdabrabyt.by/",
     "atack": 1
   },
   {
@@ -100,15 +128,723 @@
     "atack": 1
   },
   {
+    "page": "http://belinvestbank.by/",
+    "atack": 1
+  },
+  {
     "page": "http://belkart.by/",
     "atack": 1
   },
   {
-    "page": "http://vtb.com/",
+    "page": "http://belmarket.by/",
     "atack": 1
   },
   {
-    "page": "http://belinvestbank.by/",
+    "page": "http://belres.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://bgp.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://brest-region.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://broker.vtb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://brrb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://budget.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://butb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://chechnya.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://city-brest.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://customs.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://defence.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://digital.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://duma.gov.ru/ ",
+    "atack": 1
+  },
+  {
+    "page": "http://economy.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://economy.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://eng.rkn.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://etp-ets.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://etp.roseltorg.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://etpgpb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://fsb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://gazprom.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://gbm.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://goszakupki.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://government.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://grodnonews.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://gz.lot-online.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://helenkornilova.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://international.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://ipoteka-tut.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://izvestia.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://kuzbasshimbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://legislation.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://life.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://magnit.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://mail.rkn.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://mil.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://mininform.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://minsknews.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://mironline.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://mlife.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://mogilevnews.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://nangs.org/",
+    "atack": 1
+  },
+  {
+    "page": "http://nlmk.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://omk.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://ont.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://pfr.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://pikabu.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://pinsknews.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://premier.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://president-sovet.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://president.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://qiwi.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://radiobelarus.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://radiobrestfm.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://radiomir.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://radiostalica.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://radiusfm.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://rbank.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://rec.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://reform.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://region.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://reglament.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://ren.tv/",
+    "atack": 1
+  },
+  {
+    "page": "http://rkn.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://rmk-group.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://rts-tender.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://sberbank-ast.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://science.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://sitesoft.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://social.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://sovetnational.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://spbexchange.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://sputnik.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://tass.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://tektorg.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://tourism.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://ugmk.ua/",
+    "atack": 1
+  },
+  {
+    "page": "http://uniteller.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://varjag.net/",
+    "atack": 1
+  },
+  {
+    "page": "http://vesti.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://vesti.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://vm.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://vsoloviev.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://vsolovyev.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.024.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.belarus.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.bellegprom.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.belneftekhim.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.belnovosti.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.belta.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.ctv.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.duma.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.edu.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.energo.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.eurosib.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.evraz.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.gazprombank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.government.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.government.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.interfax.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.kgb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.kommersant.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.kremlin.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.mazyr.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.megafon.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.metalloinvest.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.mil.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.minenergo.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.moex.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.mozyrisp.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.mvd.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.nbrb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.nornickel.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.pochtabank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.polymetalinternational.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.prokuratura.gov.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rbc.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.ria.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rncb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rsb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rt.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.sb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.scrf.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.scrf.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.severstal.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.sibur.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.slonves.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.surgutneftegas.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.tatneft.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.tmk-group.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.tvr.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.tvrmogilev.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.uralkali.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.vedomosti.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.vtb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.vtb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://yandex.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://yaplakal.com/",
+    "atack": 1
+  },
+  {
+    "page": "http://yoomoney.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://zakazrf.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://zakupki.butb.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://zarya.by/",
+    "atack": 1
+  },
+  {
+    "page": "https://360tv.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://dnr-news.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://dnronline.su/",
+    "atack": 1
+  },
+  {
+    "page": "https://eadaily.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://iz.ru/tag/vladimir-putin",
+    "atack": 1
+  },
+  {
+    "page": "https://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
+    "atack": 1
+  },
+  {
+    "page": "https://life.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://lukoil.ru",
+    "atack": 1
+  },
+  {
+    "page": "https://m.lenta.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://more.tv/online/russia1_hd",
+    "atack": 1
+  },
+  {
+    "page": "https://more.tv/online/russia1_hd",
+    "atack": 1
+  },
+  {
+    "page": "https://mosmetro.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://news.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://rg.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://smotrim.ru/brand/21385",
+    "atack": 1
+  },
+  {
+    "page": "https://smotrim.ru/brand/60851",
+    "atack": 1
+  },
+  {
+    "page": "https://sputniknews.com",
+    "atack": 1
+  },
+  {
+    "page": "https://tass.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://tvzvezda.ru",
+    "atack": 1
+  },
+  {
+    "page": "https://vesti7.ru",
+    "atack": 1
+  },
+  {
+    "page": "https://wagnera.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.1tv.ru",
+    "atack": 1
+  },
+  {
+    "page": "https://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
+    "atack": 1
+  },
+  {
+    "page": "https://www.fontanka.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.gazprom.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.investing.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.kp.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.m24.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.mk.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.ntv.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.sberbank.ru/ru/person",
+    "atack": 1
+  },
+  {
+    "page": "https://www.vokrug.tv/product/show/poedinok/",
     "atack": 1
   }
 ]
