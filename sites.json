@@ -92,7 +92,19 @@
     "atack": 1
   },
   {
+    "page": "http://goszakupki.by/",
+    "atack": 1
+  },
+  {
     "page": "http://belarus24.by",
+    "atack": 1
+  },
+  {
+    "page": "http://belkart.by/",
+    "atack": 1
+  },
+  {
+    "page": "http://vtb.com/",
     "atack": 1
   }
 ]
