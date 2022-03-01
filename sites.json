@@ -1,317 +1,125 @@
 [
   {
-      "page": "http://3dsec.sberbank.ru/"
+      "page": "https://www.cdek.ru/"
   },
   {
-      "page": "http://admin.gazprombank.ru/"
+      "page": "https://www.dpd.ru/"
   },
   {
-      "page": "http://alfabank.ru/"
+      "page": "https://pecom.ru/"
   },
   {
-      "page": "http://api.developer.sber.ru/"
+      "page": "https://www.dellin.ru/"
   },
   {
-      "page": "http://api.sberbank.ru/"
+      "page": "https://www.ponyexpress.ru/"
   },
   {
-      "page": "http://broker.vtb.ru/"
+      "page": "https://boxberry.ru/"
   },
   {
-      "page": "http://ca.gisca.ru/"
+      "page": "https://www.cse.ru/"
   },
   {
-      "page": "http://ca.kamgov.ru/"
+      "page": "https://ru-dostavka.ru/"
   },
   {
-      "page": "http://ca.ntssoft.ru/"
+      "page": "https://tk-kit.com/"
   },
   {
-      "page": "http://cbr.ru/"
+      "page": "https://datrans.ru/"
   },
   {
-      "page": "http://cfmc.ru/"
+      "page": "http://mashprocess.ru/"
   },
   {
-      "page": "http://chechnya.gov.ru/"
+      "page": "https://www.sogruz.ru/"
   },
   {
-      "page": "http://council.gov.ru/"
+      "page": "https://www.povoz.ru/"
   },
   {
-      "page": "http://customs.gov.ru/"
+      "page": "https://pgk.ru/"
   },
   {
-      "page": "http://ddos-guard.net/"
+      "page": "https://trcont.com/"
   },
   {
-      "page": "http://dreamkas.ru/"
+      "page": "https://www.fesco.ru/"
   },
   {
-      "page": "http://duma.gov.ru/"
+      "page": "https://trasko.ru/"
   },
   {
-      "page": "http://elkursk.ru/"
+      "page": "https://www.baikalsr.ru/"
   },
   {
-      "page": "http://epnow.ru/"
+      "page": "https://itecorp.ru/"
   },
   {
-      "page": "http://fsb.ru/"
+      "page": "https://www.dentro.ru/"
   },
   {
-      "page": "http://gazprom.com/"
+      "page": "https://nrg-tk.ru/"
   },
   {
-      "page": "http://government.ru/"
+      "page": "https://www.aerodar.ru/"
   },
   {
-      "page": "http://imctax.parus-s.ru/"
+      "page": "https://del-ko.ru/"
   },
   {
-      "page": "http://izhtender.ru/"
+      "page": "https://www.skif-cargo.ru/"
   },
   {
-      "page": "http://kraskript.com/"
+      "page": "https://nordw.ru/"
   },
   {
-      "page": "http://lenta.ru/"
+      "page": "https://oooyata.ru/"
   },
   {
-      "page": "http://life.ru/"
+      "page": "https://perevozka-konteinerov.ru/"
   },
   {
-      "page": "http://mail.rkn.gov.ru/"
+      "page": "https://www.mashandling.ru/"
   },
   {
-      "page": "http://mascom-it.ru/"
+      "page": "https://garant-logistika.ru/"
   },
   {
-      "page": "http://mcspro.ru/"
+      "page": "https://www.flagmanamur.ru/"
   },
   {
-      "page": "http://online.vtb.ru/"
+      "page": "https://123789.ru/"
   },
   {
-      "page": "http://pikabu.ru/"
+      "page": "https://tranzit-auto.ru/"
   },
   {
-      "page": "http://qiwi.com/"
+      "page": "http://sztcom.ru/"
   },
   {
-      "page": "http://reglament.council.gov.ru/"
+      "page": "http://magistrans.ru/"
   },
   {
-      "page": "http://rk72.ru/"
+      "page": "https://dugin.ru"
   },
   {
-      "page": "http://rsbis.ru/elektronnaya-podpis"
+      "page": "https://dugin.tv"
   },
   {
-      "page": "http://sitesoft.ru/"
+      "page": "https://eurasia.su"
   },
   {
-      "page": "http://squaretrade.ru/"
+      "page": "https://evrazia.tv"
   },
   {
-      "page": "http://structure.mil.ru/structure/uc/info.htm"
+      "page": "https://dnr-news.com/"
   },
   {
-      "page": "http://ucestp.ru/"
+      "page": "https://dan-news.info/"
   },
   {
-      "page": "http://udcs.ru/"
-  },
-  {
-      "page": "http://ugmk.com/"
-  },
-  {
-      "page": "http://vsoloviev.ru/"
-  },
-  {
-      "page": "http://vsolovyev.ru/"
-  },
-  {
-      "page": "http://vtb.com/"
-  },
-  {
-      "page": "http://www.24ecp.ru/"
-  },
-  {
-      "page": "http://www.astralnalog.ru/"
-  },
-  {
-      "page": "http://www.belinfonalog.ru/"
-  },
-  {
-      "page": "http://www.center-inform.ru/"
-  },
-  {
-      "page": "http://www.cit-ufa.ru/"
-  },
-  {
-      "page": "http://www.council.gov.ru/"
-  },
-  {
-      "page": "http://www.crypset.ru/"
-  },
-  {
-      "page": "http://www.duma.gov.ru/"
-  },
-  {
-      "page": "http://www.e-portal.ru/"
-  },
-  {
-      "page": "http://www.gazprombank.ru/"
-  },
-  {
-      "page": "http://www.gov.ru/"
-  },
-  {
-      "page": "http://www.icentr.ru/"
-  },
-  {
-      "page": "http://www.icvibor.ru/"
-  },
-  {
-      "page": "http://www.infotrust.ru/"
-  },
-  {
-      "page": "http://www.kartoteka.ru/"
-  },
-  {
-      "page": "http://www.kremlin.ru/"
-  },
-  {
-      "page": "http://www.kt-69.ru/"
-  },
-  {
-      "page": "http://www.moex.com/"
-  },
-  {
-      "page": "http://www.nucrf.ru/"
-  },
-  {
-      "page": "http://www.nwudc.ru/"
-  },
-  {
-      "page": "http://www.otchet-online.ru/"
-  },
-  {
-      "page": "http://www.rbc.ru/"
-  },
-  {
-      "page": "http://www.rcarus.ru/"
-  },
-  {
-      "page": "http://www.roseltorg.ru/"
-  },
-  {
-      "page": "http://www.stv-it.ru/"
-  },
-  {
-      "page": "http://www.tinkoff.ru/"
-  },
-  {
-      "page": "http://www.ucpir.ru/"
-  },
-  {
-      "page": "http://www.y-center.ru/"
-  },
-  {
-      "page": "http://yaplakal.com/"
-  },
-  {
-      "page": "https://gosuslugi.ru/"
-  },
-  {
-      "page": "https://iecp.ru/ep/ep-verification"
-  },
-  {
-      "page": "https://iecp.ru/ep/uc-list"
-  },
-  {
-      "page": "https://kk.bank/UdTs"
-  },
-  {
-      "page": "https://life.ru/"
-  },
-  {
-      "page": "https://lukoil.ru/"
-  },
-  {
-      "page": "https://online.sberbank.ru/"
-  },
-  {
-      "page": "https://private.auth.alfabank.ru/"
-  },
-  {
-      "page": "https://ria.ru/"
-  },
-  {
-      "page": "https://tass.ru/"
-  },
-  {
-      "page": "https://tvzvezda.ru/"
-  },
-  {
-      "page": "https://uc-osnovanie.ru/"
-  },
-  {
-      "page": "https://web.alfabank.ru/"
-  },
-  {
-      "page": "https://www.gazeta.ru/"
-  },
-  {
-      "page": "https://www.mos.ru/uslugi/"
-  },
-  {
-      "page": "https://www.nalog.gov.ru/"
-  },
-  {
-      "page": "https://www.ntv.ru/"
-  },
-  {
-      "page": "https://xn--90aivcdt6dxbc.xn--p1ai/"
-  },
-  {
-      "page": "http://3dsec.sberbank.ru/"
-  },
-  {
-      "page": "http://ddos-guard.net/"
-  },
-  {
-      "page": "http://duma.gov.ru/"
-  },
-  {
-      "page": "http://www.rbc.ru/"
-  },
-  {
-      "page": "https://gosuslugi.ru/"
-  },
-  {
-      "page": "https://account.mail.ru/"
-  },
-  {
-      "page": "http://mil.ru/"
-  },
-  {
-      "page": "http://duma.gov.ru/"
-  },
-  {
-      "page": "http://rg.ru/"
-  },
-  {
-      "page": "http://vesti.ru/"
-  },
-  {
-      "page": "http://www.rbc.ru/"
-  },
-  {
-      "page": "http://tass.ru/"
-  },
-  {
-      "page": "http://rt.com/"
+      "page": "https://dnronline.su/"
   }
 ]
