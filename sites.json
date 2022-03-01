@@ -305,9 +305,9 @@
   },
   {
     "id": 505,
-    "url": "http://belarusbank.by/",
+    "url": "https://belarusbank.by/",
     "need_parse_url": 1,
-    "page": "http://belarusbank.by/",
+    "page": "https://belarusbank.by/",
     "page_time": 0,
     "atack": 0
   },
@@ -3297,9 +3297,9 @@
   },
   {
     "id": 139,
-    "url": "http://ria.ru/",
+    "url": "https://ria.ru/",
     "need_parse_url": 0,
-    "page": "http://ria.ru/",
+    "page": "https://ria.ru/",
     "page_time": "30.00249",
     "atack": 0
   },
@@ -3377,9 +3377,9 @@
   },
   {
     "id": 100,
-    "url": "http://smotrim.ru/brand/21385",
+    "url": "https://smotrim.ru/brand/21385",
     "need_parse_url": 1,
-    "page": "http://smotrim.ru/brand/21385",
+    "page": "https://smotrim.ru/brand/21385",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -3441,9 +3441,9 @@
   },
   {
     "id": 108,
-    "url": "http://lukoil.ru",
+    "url": "https://lukoil.ru",
     "need_parse_url": 0,
-    "page": "http://lukoil.ru",
+    "page": "https://lukoil.ru",
     "page_time": "30.00372",
     "atack": 0
   },
@@ -3849,9 +3849,9 @@
   },
   {
     "id": 161,
-    "url": "http://www.kp.ru/",
+    "url": "https://www.kp.ru/",
     "need_parse_url": 1,
-    "page": "http://www.kp.ru/",
+    "page": "https://www.kp.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -3929,9 +3929,9 @@
   },
   {
     "id": 99,
-    "url": "http://www.nalog.gov.ru/",
+    "url": "https://www.nalog.gov.ru/",
     "need_parse_url": 0,
-    "page": "http://www.nalog.gov.ru/",
+    "page": "https://www.nalog.gov.ru/",
     "page_time": "7.91154",
     "atack": 0
   },
@@ -3953,9 +3953,9 @@
   },
   {
     "id": 36,
-    "url": "http://vesti7.ru",
+    "url": "https://vesti7.ru",
     "need_parse_url": 1,
-    "page": "http://vesti7.ru",
+    "page": "https://vesti7.ru",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4009,9 +4009,9 @@
   },
   {
     "id": 33,
-    "url": "http://m.lenta.ru/",
+    "url": "https://m.lenta.ru/",
     "need_parse_url": 0,
-    "page": "http://m.lenta.ru/",
+    "page": "https://m.lenta.ru/",
     "page_time": "29.53293",
     "atack": 0
   },
@@ -4027,7 +4027,7 @@
     "id": 35,
     "url": "http://www.rbc.ru/",
     "need_parse_url": 0,
-    "page": "http://www.rbc.ru/politics/24/02/2022/6217c1099a79474539808a9a?from=newsfeed",
+    "page": "https://www.rbc.ru/politics/24/02/2022/6217c1099a79474539808a9a?from=newsfeed",
     "page_time": "0.36738",
     "atack": 0
   },
@@ -4041,17 +4041,17 @@
   },
   {
     "id": 25,
-    "url": "http://www.vokrug.tv/product/show/poedinok/",
+    "url": "https://www.vokrug.tv/product/show/poedinok/",
     "need_parse_url": 1,
-    "page": "http://www.vokrug.tv/product/show/poedinok/",
+    "page": "https://www.vokrug.tv/product/show/poedinok/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 38,
-    "url": "http://www.1tv.ru",
+    "url": "https://www.1tv.ru",
     "need_parse_url": 1,
-    "page": "http://www.1tv.ru",
+    "page": "https://www.1tv.ru",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4065,17 +4065,17 @@
   },
   {
     "id": 40,
-    "url": " http://more.tv/online/russia1_hd",
+    "url": " https://more.tv/online/russia1_hd",
     "need_parse_url": 1,
-    "page": " http://more.tv/online/russia1_hd",
+    "page": " https://more.tv/online/russia1_hd",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 41,
-    "url": "http://smotrim.ru/brand/60851",
+    "url": "https://smotrim.ru/brand/60851",
     "need_parse_url": 1,
-    "page": "http://smotrim.ru/brand/60851",
+    "page": "https://smotrim.ru/brand/60851",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4113,9 +4113,9 @@
   },
   {
     "id": 46,
-    "url": "http://tass.ru/",
+    "url": "https://tass.ru/",
     "need_parse_url": 0,
-    "page": "http://tass.ru/",
+    "page": "https://tass.ru/",
     "page_time": "30.00235",
     "atack": 0
   },
@@ -4153,9 +4153,9 @@
   },
   {
     "id": 2,
-    "url": "http://www.pochtabank.ru",
+    "url": "https://www.pochtabank.ru",
     "need_parse_url": 1,
-    "page": "http://www.pochtabank.ru",
+    "page": "https://www.pochtabank.ru",
     "page_time": 0,
     "atack": 0
   },
@@ -4177,17 +4177,17 @@
   },
   {
     "id": 5,
-    "url": "http://www.raiffeisen.ru/",
+    "url": "https://www.raiffeisen.ru/",
     "need_parse_url": 1,
-    "page": "http://www.raiffeisen.ru/",
+    "page": "https://www.raiffeisen.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 6,
-    "url": "http://www.gazprombank.ru",
+    "url": "https://www.gazprombank.ru",
     "need_parse_url": 1,
-    "page": "http://www.gazprombank.ru/",
+    "page": "https://www.gazprombank.ru/",
     "page_time": 0,
     "atack": 0
   },
@@ -4201,9 +4201,9 @@
   },
   {
     "id": 8,
-    "url": "http://www.ubrr.ru/",
+    "url": "https://www.ubrr.ru/",
     "need_parse_url": 1,
-    "page": "http://www.ubrr.ru/",
+    "page": "https://www.ubrr.ru/",
     "page_time": 0,
     "atack": 0
   },
@@ -4217,33 +4217,33 @@
   },
   {
     "id": 10,
-    "url": "http://www.bspb.ru/",
+    "url": "https://www.bspb.ru/",
     "need_parse_url": 1,
-    "page": "http://www.bspb.ru/",
+    "page": "https://www.bspb.ru/",
     "page_time": 0,
     "atack": 0
   },
   {
     "id": 12,
-    "url": "http://belapb.by/",
+    "url": "https://belapb.by/",
     "need_parse_url": 1,
-    "page": "http://belapb.by/",
+    "page": "https://belapb.by/",
     "page_time": 0,
     "atack": 0
   },
   {
     "id": 23,
-    "url": "http://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
+    "url": "https://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
     "need_parse_url": 1,
-    "page": "http://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
+    "page": "https://kino.mail.ru/tvshow_851444_vremya_pokazhet/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 13,
-    "url": "http://www.priorbank.by/",
+    "url": "https://www.priorbank.by/",
     "need_parse_url": 1,
-    "page": "http://www.priorbank.by/",
+    "page": "https://www.priorbank.by/",
     "page_time": 0,
     "atack": 0
   },
@@ -4337,41 +4337,41 @@
   },
   {
     "id": 96,
-    "url": "http://www.mk.ru/",
+    "url": "https://www.mk.ru/",
     "need_parse_url": 1,
-    "page": "http://www.mk.ru/",
+    "page": "https://www.mk.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 85,
-    "url": "http://sputniknews.com",
+    "url": "https://sputniknews.com",
     "need_parse_url": 1,
-    "page": "http://sputniknews.com",
+    "page": "https://sputniknews.com",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 76,
-    "url": "http://dnr-news.com/",
+    "url": "https://dnr-news.com/",
     "need_parse_url": 1,
-    "page": "http://dnr-news.com/",
+    "page": "https://dnr-news.com/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 77,
-    "url": "http://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
+    "url": "https://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
     "need_parse_url": 1,
-    "page": "http://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
+    "page": "https://www.1tv.ru/shows/vystupleniya-prezidenta-rossii",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 78,
-    "url": "http://www.fontanka.ru/",
+    "url": "https://www.fontanka.ru/",
     "need_parse_url": 1,
-    "page": "http://www.fontanka.ru/",
+    "page": "https://www.fontanka.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4393,17 +4393,17 @@
   },
   {
     "id": 81,
-    "url": "http://mosmetro.ru/",
+    "url": "https://mosmetro.ru/",
     "need_parse_url": 1,
-    "page": "http://mosmetro.ru/",
+    "page": "https://mosmetro.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 82,
-    "url": "http://tvzvezda.ru",
+    "url": "https://tvzvezda.ru",
     "need_parse_url": 1,
-    "page": "http://tvzvezda.ru",
+    "page": "https://tvzvezda.ru",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4465,9 +4465,9 @@
   },
   {
     "id": 90,
-    "url": "http://yandex.ru",
+    "url": "https://yandex.ru",
     "need_parse_url": 1,
-    "page": "http://yandex.ru",
+    "page": "https://yandex.ru",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4481,9 +4481,9 @@
   },
   {
     "id": 92,
-    "url": "http://360tv.ru/",
+    "url": "https://360tv.ru/",
     "need_parse_url": 1,
-    "page": "http://360tv.ru/",
+    "page": "https://360tv.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4497,17 +4497,17 @@
   },
   {
     "id": 94,
-    "url": "http://www.ntv.ru/",
+    "url": "https://www.ntv.ru/",
     "need_parse_url": 1,
-    "page": "http://www.ntv.ru/",
+    "page": "https://www.ntv.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 95,
-    "url": "http://www.m24.ru/",
+    "url": "https://www.m24.ru/",
     "need_parse_url": 1,
-    "page": "http://www.m24.ru/",
+    "page": "https://www.m24.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4537,17 +4537,17 @@
   },
   {
     "id": 60,
-    "url": "http://iz.ru/tag/vladimir-putin",
+    "url": "https://iz.ru/tag/vladimir-putin",
     "need_parse_url": 1,
-    "page": "http://iz.ru/tag/vladimir-putin",
+    "page": "https://iz.ru/tag/vladimir-putin",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 51,
-    "url": "http://www.investing.com/",
+    "url": "https://www.investing.com/",
     "need_parse_url": 1,
-    "page": "http://www.investing.com/",
+    "page": "https://www.investing.com/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4569,15 +4569,15 @@
   },
   {
     "id": 54,
-    "url": "http://more.tv/online/russia1_hd",
+    "url": "https://more.tv/online/russia1_hd",
     "need_parse_url": 1,
-    "page": "http://more.tv/online/russia1_hd",
+    "page": "https://more.tv/online/russia1_hd",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 55,
-    "url": "http://rg.ru/",
+    "url": "https://rg.ru/",
     "need_parse_url": 0,
     "page": "rg.ru/tema/lifecity/",
     "page_time": "1.67566",
@@ -4585,9 +4585,9 @@
   },
   {
     "id": 56,
-    "url": "http://www.gazeta.ru/",
+    "url": "https://www.gazeta.ru/",
     "need_parse_url": 0,
-    "page": "http://www.gazeta.ru/",
+    "page": "https://www.gazeta.ru/",
     "page_time": "29.53582",
     "atack": 0
   },
@@ -4609,9 +4609,9 @@
   },
   {
     "id": 59,
-    "url": "http://wagnera.ru/",
+    "url": "https://wagnera.ru/",
     "need_parse_url": 1,
-    "page": "http://wagnera.ru?c=1",
+    "page": "https://wagnera.ru?c=1",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4633,33 +4633,33 @@
   },
   {
     "id": 62,
-    "url": "http://www.mos.ru/uslugi/",
+    "url": "https://www.mos.ru/uslugi/",
     "need_parse_url": 1,
-    "page": "http://www.mos.ru/uslugi/",
+    "page": "https://www.mos.ru/uslugi/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 63,
-    "url": "http://www.gosuslugi.ru/",
+    "url": "https://www.gosuslugi.ru/",
     "need_parse_url": 1,
-    "page": "http://www.gosuslugi.ru/",
+    "page": "https://www.gosuslugi.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 64,
-    "url": "http://life.ru/",
+    "url": "https://life.ru/",
     "need_parse_url": 1,
-    "page": "http://life.ru/",
+    "page": "https://life.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 65,
-    "url": "http://eadaily.com/",
+    "url": "https://eadaily.com/",
     "need_parse_url": 1,
-    "page": "http://eadaily.com/",
+    "page": "https://eadaily.com/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -4673,17 +4673,17 @@
   },
   {
     "id": 67,
-    "url": "http://news.ru/",
+    "url": "https://news.ru/",
     "need_parse_url": 1,
-    "page": "http://news.ru/",
+    "page": "https://news.ru/",
     "page_time": "0.00000",
     "atack": 0
   },
   {
     "id": 68,
-    "url": "http://dnronline.su/",
+    "url": "https://dnronline.su/",
     "need_parse_url": 1,
-    "page": "http://dnronline.su/",
+    "page": "https://dnronline.su/",
     "page_time": "0.00000",
     "atack": 0
   },
@@ -5385,9 +5385,9 @@
   },
   {
     "id": 355,
-    "url": "http://www.sber-bank.by",
+    "url": "https://www.sber-bank.by",
     "need_parse_url": 1,
-    "page": "http://www.sber-bank.by/sberprime",
+    "page": "https://www.sber-bank.by/sberprime",
     "page_time": 0,
     "atack": 0
   },
