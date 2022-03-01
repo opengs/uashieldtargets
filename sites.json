@@ -1,5 +1,11 @@
 [
   {
+    "page": "https://wikimapia.org/"
+  },
+  {
+    "page": "http://bsamp.ru/"
+  },
+  {
     "id": 344,
     "url": "http://etpgpb.ru/",
     "need_parse_url": 1,
