@@ -1,6 +1,6 @@
 [
     {
-    "page": "https://online.sberbank.ru/",
+    "page": "http://online.sberbank.ru/",
     "atack": 1
   },
   {
@@ -24,7 +24,7 @@
     "atack": 1
   },
   {
-    "page": "https://www.gazeta.ru/",
+    "page": "http://www.gazeta.ru/",
     "atack": 1
   },
   {
@@ -36,11 +36,11 @@
     "atack": 1
   },
   {
-    "page": "https://www.nalog.gov.ru/",
+    "page": "http://www.nalog.gov.ru/",
     "atack": 1
   },
   {
-    "page": "https://ria.ru/",
+    "page": "http://ria.ru/",
     "atack": 1
   },
   {
@@ -64,7 +64,7 @@
     "atack": 1
   },
   {
-    "page": "https://gosuslugi.ru",
+    "page": "http://gosuslugi.ru",
     "atack": 1
   },
   {
@@ -80,7 +80,7 @@
     "atack": 1
   },
   {
-    "page": "https://www.mos.ru/uslugi/",
+    "page": "http://www.mos.ru/uslugi/",
     "atack": 1
   },
   {
