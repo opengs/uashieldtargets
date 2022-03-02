@@ -1,92 +1,371 @@
 [
-    {
-        "page": "https://cryptopro.ru"
+  {
+      "page": "https://www.cdek.ru/"
+  },
+  {
+      "page": "https://www.dpd.ru/"
+  },
+  {
+      "page": "https://pecom.ru/"
+  },
+  {
+      "page": "https://www.dellin.ru/"
+  },
+  {
+      "page": "https://www.ponyexpress.ru/"
+  },
+  {
+      "page": "https://boxberry.ru/"
+  },
+  {
+      "page": "https://www.cse.ru/"
+  },
+  {
+      "page": "https://ru-dostavka.ru/"
+  },
+  {
+      "page": "https://tk-kit.com/"
+  },
+  {
+      "page": "https://datrans.ru/"
+  },
+  {
+      "page": "http://mashprocess.ru/"
+  },
+  {
+      "page": "https://www.sogruz.ru/"
+  },
+  {
+      "page": "https://www.povoz.ru/"
+  },
+  {
+      "page": "https://pgk.ru/"
+  },
+  {
+      "page": "https://trcont.com/"
+  },
+  {
+      "page": "https://www.fesco.ru/"
+  },
+  {
+      "page": "https://trasko.ru/"
+  },
+  {
+      "page": "https://www.baikalsr.ru/"
+  },
+  {
+      "page": "https://itecorp.ru/"
+  },
+  {
+      "page": "https://www.dentro.ru/"
+  },
+  {
+      "page": "https://nrg-tk.ru/"
+  },
+  {
+      "page": "https://www.aerodar.ru/"
+  },
+  {
+      "page": "https://del-ko.ru/"
+  },
+  {
+      "page": "https://www.skif-cargo.ru/"
+  },
+  {
+      "page": "https://nordw.ru/"
+  },
+  {
+      "page": "https://oooyata.ru/"
+  },
+  {
+      "page": "https://perevozka-konteinerov.ru/"
+  },
+  {
+      "page": "https://www.mashandling.ru/"
+  },
+  {
+      "page": "https://garant-logistika.ru/"
+  },
+  {
+      "page": "https://www.flagmanamur.ru/"
+  },
+  {
+      "page": "https://123789.ru/"
+  },
+  {
+      "page": "https://tranzit-auto.ru/"
+  },
+  {
+      "page": "http://sztcom.ru/"
+  },
+  {
+      "page": "http://magistrans.ru/"
+  },
+  {
+      "page": "https://dugin.ru"
+  },
+  {
+      "page": "https://dugin.tv"
+  },
+  {
+      "page": "https://eurasia.su"
+  },
+  {
+      "page": "https://evrazia.tv"
+  },
+  {
+      "page": "https://dnr-news.com/"
+  },
+  {
+      "page": "https://dan-news.info/"
+  },
+  {
+      "page": "https://dnronline.su/"
+  },
+  {
+      "page": "https://lug-info.com/"
+  },
+  {
+      "page": "http://sovminlnr.ru/"
+  },
+  {
+      "page": "http://nslnr.su/"
+  },
+  {
+      "page": "https://mvdlnr.ru/"
+  },
+  {
+      "page": "https://gtrklnr.com/"
+  },
+  {
+      "page": "https://www.lugvoda.com/"
+  },
+  {
+      "page": "https://gtklnr.su/"
+  },
+  {
+      "page": "https://uinlnr.su/"
+  },
+  {
+      "page": "http://lutugino.su/"
+  },
+  {
+      "page": "http://mzlnr.su/"
+  },
+  {
+      "page": "https://novosti.dn.ua/"
+  },
+  {
+      "page": "https://mzdnr.ru/"
+  },
+  {
+      "page": "https://dnrsovet.su/"
+  },
+  {
+      "page": "https://pravdnr.ru/"
+  },
+  {
+      "page": "https://glavadnr.ru/"
+  },
+  {
+      "page": "http://mdsdnr.ru/"
+  },
+  {
+      "page": "https://www.mid-dnr.su/ru/"
+  },
+  {
+      "page": "https://xn--h1aheeehel.xn--p1acf/"
+  },
+  {
+      "page": "http://www.agrodon.su/"
+  },
+  {
+      "page": "https://dnrailway.ru/"
+  },
+  {
+      "page": "https://gisnpa-dnr.ru/"
+  },
+  {
+      "page": "https://gb-dnr.com/"
+  },
+  {
+      "page": "https://uc-osnovanie.ru/"
+  },
+  {
+      "page": "http://www.nucrf.ru"
+  }, 
+  {   
+    "page": "http://www.belinfonalog.ru"
+  }, 
+  {
+    "page": "http://www.roseltorg.ru"
+  }, 
+  {
+    "page": "http://www.astralnalog.ru"
+  }, 
+  {
+    "page": "http://www.nwudc.ru"
+  }, 
+  {
+    "page": "http://www.center-inform.ru"
+  }, 
+  {
+    "page": "http://structure.mil.ru"
+  }, 
+  {
+    "page": "http://www.ucpir.ru"
+  },
+  {
+    "page": "http://dreamkas.ru"
+  }, 
+  {
+    "page": "http://www.e-portal.ru"
+  }, 
+  {
+    "page": "http://izhtender.ru"
+  }, 
+  {
+    "page": "http://imctax.parus-s.ru"
+  }, 
+  {
+    "page": "http://www.icentr.ru"
+  },
+  {
+      "page": "http://www.kartoteka.ru"
+  },
+  {
+      "page": "http://rsbis.ru/elektronnaya-podpis"
+  },
+  {
+      "page": "http://www.stv-it.ru"
+  }, 
+  {   
+    "page": "http://www.crypset.ru"
+  }, 
+  {
+    "page": "http://www.kt-69.ru"
+  }, 
+  {
+    "page": "http://www.24ecp.ru"
+  }, 
+  {
+    "page": "http://kraskript.com"
+  }, 
+  {
+    "page": "http://ca.ntssoft.ru"
+  }, 
+  {
+    "page": "http://www.y-center.ru"
+  }, 
+  {
+    "page": "http://www.rcarus.ru"
+  },
+  {
+    "page": "http://rk72.ru"
+  }, 
+  {
+    "page": "http://squaretrade.ru"
+  }, 
+  {
+    "page": "http://ca.gisca.ru"
+  }, 
+  {
+    "page": "http://www.otchet-online.ru"
+  }, 
+  {
+    "page": "https://fsb.ru"
+  },
+  {
+    "page": "https://sberbank.ru"
+  },
+  {
+    "page": "https://cryptopro.ru"
+  },
+  {
+    "page": "https://edi.1cfresh.com"
+   },
+   {
+     "page": "https://api.1cbn.ru"
     },
     {
-        "page": "https://edi.1cfresh.com"
+     "page": "http://downloads.1c.ru"
     },
     {
-        "page": "https://api.1cbn.ru"
+      "page": "http://fadn.gov.ru"
     },
     {
-        "page": "http://downloads.1c.ru"
+      "page": "http://pravo.minjust.ru"
     },
     {
-        "page": "http://fadn.gov.ru"
+      "page": "https://classif.gov.spb.ru"
     },
     {
-        "page": "http://pravo.minjust.ru"
+      "page": "https://crpp.ru"
     },
     {
-        "page": "https://classif.gov.spb.ru"
+      "page": "https://lenobl.ru"
     },
     {
-        "page": "https://crpp.ru"
+      "page": "https://assembly.spb.ru"
     },
     {
-        "page": "https://lenobl.ru"
+      "page": "http://st-petersburg.izbirkom.ru"
     },
     {
-        "page": "https://assembly.spb.ru"
+      "page": "http://gz-spb.ru"
     },
     {
-        "page": "http://st-petersburg.izbirkom.ru"
+      "page": "https://gov.spb.ru"
     },
     {
-        "page": "http://gz-spb.ru"
+      "page": "https://pravo.gov.ru"
     },
     {
-        "page": "https://gov.spb.ru"
+      "page": "http://trudvsem.ru"
     },
     {
-        "page": "https://pravo.gov.ru"
+      "page": "https://whsd.ru"
     },
     {
-        "page": "http://trudvsem.ru"
+      "page": "https://visit-petersburg.ru"
     },
     {
-        "page": "https://whsd.ru"
+      "page": "http://spbinvestment.ru"
     },
     {
-        "page": "https://visit-petersburg.ru"
+      "page": "https://reestr-gis.gov.spb.ru"
     },
     {
-        "page": "http://spbinvestment.ru"
+      "page": "https://dszn.ru"
     },
     {
-        "page": "https://reestr-gis.gov.spb.ru"
+      "page": "https://avsgf.gugov.spb.ru"
     },
     {
-        "page": "https://dszn.ru"
+      "page": "http://obmencity.ru"
     },
     {
-        "page": "https://avsgf.gugov.spb.ru"
+      "page": "https://gosfondspb.ru"
     },
     {
-        "page": "http://obmencity.ru"
+      "page": "https://gpray_stroitel.ru"
     },
     {
-        "page": "https://gosfondspb.ru"
+      "page": "https://guprepspb.ru"
     },
     {
-        "page": "https://gpray_stroitel.ru"
+      "page": "http://gouukk.ru"
     },
     {
-        "page": "https://guprepspb.ru"
+      "page": "http://gilkom-complex.ru"
     },
     {
-        "page": "http://gouukk.ru"
+      "page": "http://gu.spb.ru"
     },
     {
-        "page": "http://gilkom-complex.ru"
+      "page": "http://spbarchives.ru"
     },
     {
-        "page": "http://gu.spb.ru"
-    },
-    {
-        "page": "http://spbarchives.ru"
-    },
-    {
-        "page": "http://skillsnet.ru"
+      "page": "http://skillsnet.ru"
     }
 ]
