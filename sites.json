@@ -1,314 +1,101 @@
 [
     {
-        "page": "https://pulkovoairport.ru"
+        "page": "https://YOOMONEY.ru"
+    },
+    {
+        "page": "https://qiwi.com"
+    },
+    {
+        "page": "https://www.TINKOFF.ru"
+    },
+    {
+        "page": "https://MIRONLINE.ru"
+    },
+    {
+        "page": "https://www.rsb.ru"
+    },
+    {
+        "page": "https://www.RNCB.ru"
+    },
+    {
+        "page": "https://www.POCHTABANK.ru"
+    },
+    {
+        "page": "https://cbr.ru"
+    },
+    {
+        "page": "https://www.raiffeisen.ru"
+    },
+    {
+        "page": "https://www.nspk.ru"
+    },
+    {
+        "page": "https://www.moex.com"
+    },
+    {
+        "page": "https://spvb.ru"
+    },
+    {
+        "page": "https://www.rosbank.ru"
+    },
+    {
+        "page": "https://www.unicreditbank.ru"
+    },
+    {
+        "page": "https://abr.ru"
+    },
+    {
+        "page": "https://www.vbrr.ru"
+    },
+    {
+        "page": "https://btabank.by"
     },
     {
         "page": "https://www.VNUKOVO.ru"
     },
     {
-        "page": "https://vnukovo.ru/"
+        "page": "https://svo.aero"
     },
     {
-        "page": "https://aerostar.by"
+        "page": "https://www.dme.ru"
     },
     {
-        "page": "https://ticketing.by"
+        "page": "https://www.aeroportdomodedovo.ru"
     },
     {
-        "page": "https://rubistar.by"
+        "page": "https://www.zia.aero"
     },
     {
-        "page": "https://dme.ru/"
+        "page": "https://constructor.gazprom.ru"
     },
     {
-        "page": "https://vnukovo.ru/"
+        "page": "https://pulkovoairport.ru"
     },
     {
-        "page": "https://abakan.aero/"
+        "page": "https://airport-rzhevka.ru"
     },
     {
-        "page": "https://www.sberbank.ru/"
+        "page": "https://xn--80aafeah9bwaabcgldgz5p.xn--p1ai"
     },
     {
-        "page": "https://scr.online.sberbank.ru/api/fl/idgib-w-3ds"
+        "page": "https://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai"
     },
     {
-        "page": "https://3dsec.sberbank.ru/mportal3/auth/login"
+        "page": "https://rov.aero"
     },
     {
-        "page": "https://acs1.sbrf.ru/"
+        "page": "https://krr.aero"
     },
     {
-        "page": "https://acs2.sbrf.ru/"
+        "page": "http://www.gdz.aero"
     },
     {
-        "page": "https://acs3.sbrf.ru/"
+        "page": "https://simferopol-airport.ru"
     },
     {
-        "page": "https://acs4.sbrf.ru/"
+        "page": "https://xn--80aqakjqje5byf.xn--80adrabb4aegksdjbafk0u.xn--p1ai/"
     },
     {
-        "page": "https://acs5.sbrf.ru/"
-    },
-    {
-        "page": "https://acs6.sbrf.ru/"
-    },
-    {
-        "page": "https://acs7.sbrf.ru/"
-    },
-    {
-        "page": "https://acs8.sbrf.ru/"
-    },
-    {
-        "page": "https://www.vtb.ru/"
-    },
-    {
-        "page": "https://www.gazprombank.ru"
-    },
-    {
-        "page": "https://online-ipoteka.ru/"
-    },
-    {
-        "page": "https://talkbank.io/"
-    },
-    {
-        "page": "https://absolutbank.ru/"
-    },
-    {
-        "page": "https://www.avangard.ru/rus/"
-    },
-    {
-        "page": "https://aversbank.ru/"
-    },
-    {
-        "page": "https://www.avtogradbank.ru/"
-    },
-    {
-        "page": "https://autokreditbank.ru"
-    },
-    {
-        "page": "https://avtotorgbank.ru/"
-    },
-    {
-        "page": "http://kbagora.ru/"
-    },
-    {
-        "page": "https://www.apkbank.ru/"
-    },
-    {
-        "page": "https://www.agroros.ru/"
-    },
-    {
-        "page": "https://www.atb.su/"
-    },
-    {
-        "page": "https://ai-bank.ru/"
-    },
-    {
-        "page": "https://www.cbr.ru/"
-    },
-    {
-        "page": "https://www.akbars.ru/"
-    },
-    {
-        "page": "https://www.akibank.ru/"
-    },
-    {
-        "page": "https://www.abank.ru/"
-    },
-    {
-        "page": "https://www.alefbank.ru/"
-    },
-    {
-        "page": "https://www.albank.ru/"
-    },
-    {
-        "page": "https://capitalbank.ru/"
-    },
-    {
-        "page": "http://alternatio.org/"
-    },
-    {
-        "page": "https://www.aresbank.ru/"
-    },
-    {
-        "page": "http://bank-arzamas.ru/"
-    },
-    {
-        "page": "http://www.baikalcredobank.ru/"
-    },
-    {
-        "page": "http://www.balakovo-bank.ru/"
-    },
-    {
-        "page": "https://131.ru/"
-    },
-    {
-        "page": "https://www.akcept.ru/"
-    },
-    {
-        "page": "http://www.bereit.ru/"
-    },
-    {
-        "page": "https://bgfbank.ru/"
-    },
-    {
-        "page": "https://domrfbank.ru/"
-    },
-    {
-        "page": "https://www.zarech.ru/"
-    },
-    {
-        "page": "https://www.zenit.ru/"
-    },
-    {
-        "page": "https://www.bancaintesa.ru/"
-    },
-    {
-        "page": "https://www.bankofkazan.ru/"
-    },
-    {
-        "page": "https://www.kremlinbank.ru/"
-    },
-    {
-        "page": "https://bankorange.ru/"
-    },
-    {
-        "page": "https://orbank.ru/"
-    },
-    {
-        "page": "https://www.open.ru/"
-    },
-    {
-        "page": "https://www.bankperm.ru/"
-    },
-    {
-        "page": "https://www.round.ru/"
-    },
-    {
-        "page": "https://www.bankrmp.ru/"
-    },
-    {
-        "page": "http://bankrsi.ru/"
-    },
-    {
-        "page": "https://www.bspb.ru/"
-    },
-    {
-        "page": "https://www.sksbank.ru/"
-    },
-    {
-        "page": "https://sinara.ru/"
-    },
-    {
-        "page": "https://www.uralsib.ru/"
-    },
-    {
-        "page": "https://www.finsb.ru/"
-    },
-    {
-        "page": "https://bankffin.ru/"
-    },
-    {
-        "page": "https://bbr.ru/"
-    },
-    {
-        "page": "https://belsocbank.ru/"
-    },
-    {
-        "page": "https://www.besteffortsbank.ru/"
-    },
-    {
-        "page": "https://bcs-bank.com/"
-    },
-    {
-        "page": "https://bcs.ru/"
-    },
-    {
-        "page": "https://blanc.ru/"
-    },
-    {
-        "page": "https://www.bm-bank.ru/"
-    },
-    {
-        "page": "https://www.bmwbank.ru/"
-    },
-    {
-        "page": "http://www.bnpparibasbank.ru/ru/"
-    },
-    {
-        "page": "https://www.ankb.ru/"
-    },
-    {
-        "page": "http://www.bstbank.ru/"
-    },
-    {
-        "page": "https://www.bystrobank.ru/"
-    },
-    {
-        "page": "https://www.boc.ru/"
-    },
-    {
-        "page": "http://stkbank.ru/"
-    },
-    {
-        "page": "http://www.vakobank.com/"
-    },
-    {
-        "page": "http://vlb100.ru/"
-    },
-    {
-        "page": "https://www.venets-bank.ru/"
-    },
-    {
-        "page": "https://ibv.ru/"
-    },
-    {
-        "page": "https://www.vikingbank.ru/"
-    },
-    {
-        "page": "https://vitabank.ru/"
-    },
-    {
-        "page": "https://www.vlbb.ru/"
-    },
-    {
-        "page": "https://www.vfbank.ru/"
-    },
-    {
-        "page": "https://bankvl.ru/"
-    },
-    {
-        "page": "https://www.vbrr.ru/"
-    },
-    {
-        "page": "https://www.vuzbank.ru/"
-    },
-    {
-        "page": "http://www.vyatich.ryazan.ru/"
-    },
-    {
-        "page": "https://www.gazneftbank.ru/"
-    },
-    {
-        "page": "https://online.gpb.ru/"
-    },
-    {
-        "page": "https://www.gaztransbank.ru/"
-    },
-    {
-        "page": "https://gebank.ru/"
-    },
-    {
-        "page": "https://www.gibank.ru/"
-    },
-    {
-        "page": "https://www.genbank.ru/"
-    },
-    {
-        "page": "https://bankgefest.ru/"
-    },
-    {
-        "page": "https://www.gorbank.spb.ru/"
+        "page": "https://svx.aero"
     }
 ]
