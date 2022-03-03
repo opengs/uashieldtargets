@@ -1,185 +1,56 @@
 [
     {
-        "page": "https://YOOMONEY.ru"
+        "page": "https://www.glonass-iac.ru/"
     },
     {
-        "page": "https://qiwi.com"
+        "page": "https://www.cbr.ru/"
     },
     {
-        "page": "https://www.TINKOFF.ru"
+        "page": "https://www.sberbank.ru/"
     },
     {
-        "page": "https://MIRONLINE.ru"
+        "page": "https://sber.ru/"
     },
     {
-        "page": "https://www.rsb.ru"
+        "page": "https://scr.online.sberbank.ru/api/fl/idgib-w-3ds"
     },
     {
-        "page": "https://www.RNCB.ru"
+        "page": "https://3dsec.sberbank.ru/mportal3/auth/login"
     },
     {
-        "page": "https://www.POCHTABANK.ru"
+        "page": "https://acs1.sbrf.ru/"
     },
     {
-        "page": "https://cbr.ru"
+        "page": "https://acs2.sbrf.ru/"
     },
     {
-        "page": "https://www.raiffeisen.ru"
+        "page": "https://acs3.sbrf.ru/"
     },
     {
-        "page": "https://www.nspk.ru"
+        "page": "https://acs4.sbrf.ru/"
     },
     {
-        "page": "https://www.moex.com"
+        "page": "https://acs5.sbrf.ru/"
     },
     {
-        "page": "https://spvb.ru"
+        "page": "https://acs6.sbrf.ru/"
     },
     {
-        "page": "https://www.rosbank.ru"
+        "page": "https://acs7.sbrf.ru/"
     },
     {
-        "page": "https://www.unicreditbank.ru"
+        "page": "https://acs8.sbrf.ru/"
     },
     {
-        "page": "https://abr.ru"
+        "page": "https://beelineru.ru/"
     },
     {
-        "page": "https://www.vbrr.ru"
+        "page": "https://mts.ru/"
     },
     {
-        "page": "https://btabank.by"
+        "page": "https://www.megafon.ru/"
     },
     {
-        "page": "https://www.VNUKOVO.ru"
-    },
-    {
-        "page": "https://svo.aero"
-    },
-    {
-        "page": "https://www.dme.ru"
-    },
-    {
-        "page": "https://www.aeroportdomodedovo.ru"
-    },
-    {
-        "page": "https://www.zia.aero"
-    },
-    {
-        "page": "https://constructor.gazprom.ru"
-    },
-    {
-        "page": "https://pulkovoairport.ru"
-    },
-    {
-        "page": "https://airport-rzhevka.ru"
-    },
-    {
-        "page": "https://xn--80aafeah9bwaabcgldgz5p.xn--p1ai"
-    },
-    {
-        "page": "https://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai"
-    },
-    {
-        "page": "https://rov.aero"
-    },
-    {
-        "page": "https://krr.aero"
-    },
-    {
-        "page": "http://www.gdz.aero"
-    },
-    {
-        "page": "https://simferopol-airport.ru"
-    },
-    {
-        "page": "https://svx.aero"
-    },
-    {
-        "page": "https://xn--80aqakjqje5byf.xn--80adrabb4aegksdjbafk0u.xn--p1ai/"
-    },
-    {
-        "page": "https://www.amurobl.ru"
-    },
-    {
-        "page": "http://dvinaland.ru"
-    },
-    {
-        "page": "https://astrobl.ru"
-    },
-    {
-        "page": "https://belregion.ru"
-    },
-    {
-        "page": "https://www.bryanskobl.ru"
-    },
-    {
-        "page": "https://avo.ru"
-    },
-    {
-        "page": "https://volgoduma.ru"
-    },
-    {
-        "page": "https://www.govvrn.ru"
-    },
-    {
-        "page": "http://www.ivanovoobl.ru"
-    },
-    {
-        "page": "https://irkobl.ru"
-    },
-    {
-        "page": "http://gov39.ru"
-    },
-    {
-        "page": "https://pre.admoblkaluga.ru"
-    },
-    {
-        "page": "https://ako.ru"
-    },
-    {
-        "page": "https://kirovreg.ru"
-    },
-    {
-        "page": "https://kurganobl.ru"
-    },
-    {
-        "page": "https://kursk.ru"
-    },
-    {
-        "page": "https://lenobl.ru"
-    },
-    {
-        "page": "https://xn--80aacoonefzg3am8b1fsb.xn--p1ai"
-    },
-    {
-        "page": "https://www.49gov.ru"
-    },
-    {
-        "page": "https://mosreg.ru"
-    },
-    {
-        "page": "https://gov-murman.ru"
-    },
-    {
-        "page": "https://www.government-nnov.ru"
-    },
-    {
-        "page": "https://www.novreg.ru"
-    },
-    {
-        "page": "http://www.nso.ru"
-    },
-    {
-        "page": "https://omskportal.ru"
-    },
-    {
-        "page": "https://www.donland.ru"
-    },
-    {
-        "page": "http://pskov.ru"
-    },
-    {
-        "page": "http://saratov.gov.ru"
+        "page": "https://ca.vks.rosguard.gov.ru/"
     }
 ]
