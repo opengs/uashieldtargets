@@ -1,20 +1,17 @@
 [
   {
-      "page": "https://arabic.rt.com"
+      "page": "https://cdni.rt.com/"
   },
   {
-      "page": "https://staff.api.rt.com"
+      "page": "https://cdnar.rt.com/"
   },
   {
-      "page": "https://award.rt.com"
+      "page": "https://chtd.rt.com"
   },
   {
-      "page": "https://francais.rt.com"
+      "page": "https://russian.rt.com"
   },
   {
-      "page": "https://dsg-images.api.rt.com"
-  },
-  {
-      "page": "https://www.doc.rt.com"
+      "page": "https://assange.rt.com"
   }
 ]
