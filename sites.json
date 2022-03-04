@@ -1,56 +1,5 @@
 [
-    {
-        "page": "https://www.glonass-iac.ru/"
-    },
-    {
-        "page": "https://www.cbr.ru/"
-    },
-    {
-        "page": "https://www.sberbank.ru/"
-    },
-    {
-        "page": "https://sber.ru/"
-    },
-    {
-        "page": "https://scr.online.sberbank.ru/api/fl/idgib-w-3ds"
-    },
-    {
-        "page": "https://3dsec.sberbank.ru/mportal3/auth/login"
-    },
-    {
-        "page": "https://acs1.sbrf.ru/"
-    },
-    {
-        "page": "https://acs2.sbrf.ru/"
-    },
-    {
-        "page": "https://acs3.sbrf.ru/"
-    },
-    {
-        "page": "https://acs4.sbrf.ru/"
-    },
-    {
-        "page": "https://acs5.sbrf.ru/"
-    },
-    {
-        "page": "https://acs6.sbrf.ru/"
-    },
-    {
-        "page": "https://acs7.sbrf.ru/"
-    },
-    {
-        "page": "https://acs8.sbrf.ru/"
-    },
-    {
-        "page": "https://beelineru.ru/"
-    },
-    {
-        "page": "https://mts.ru/"
-    },
-    {
-        "page": "https://www.megafon.ru/"
-    },
-    {
-        "page": "https://ca.vks.rosguard.gov.ru/"
-    }
+  {
+    "page": "https://www.vedomosti.ru/"
+  }
 ]
