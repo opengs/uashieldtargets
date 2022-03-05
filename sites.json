@@ -1,101 +1,254 @@
 [
     {
-        "page": "https://yapolitic.ru/"
+        "page": "https://www.mil.by/"
     },
     {
-        "page": "https://60-minut.su/"
+        "page": "http://www.government.by/"
     },
     {
-        "page": "https://rufilmtv.one/"
+        "page": "https://president.gov.by/ru"
     },
     {
-        "page": "http://www.yaom.ru/"
+        "page": "https://www.mvd.gov.by/ru"
     },
     {
-        "page": "https://malahov-pryamoj-efir.lol/"
+        "page": "http://www.gtb.by/"
     },
     {
-        "page": "https://rupolitshow.ru/"
+        "page": "https://cis.minsk.by/"
     },
     {
-        "page": "https://ruspolitnews.ru/"
+        "page": "http://www.kgk.gov.by/"
     },
     {
-        "page": "https://priamoi-efir.ru/"
+        "page": "http://nasb.gov.by/"
     },
     {
-        "page": "https://alkatv.ru/"
+        "page": "https://oac.gov.by/"
     },
     {
-        "page": "https://www.glaz.tv/"
+        "page": "https://www.belstat.gov.by/"
     },
     {
-        "page": "https://vecher-s-solovevym.su/"
+        "page": "http://sk.gov.by/ru/"
     },
     {
-        "page": "https://soloviev.xyz/"
+        "page": "https://vak.gov.by/"
     },
     {
-        "page": "https://ok-solovey.ru/"
+        "page": "https://sudexpert.gov.by/ru/index.html"
     },
     {
-        "page": "https://tvoj-onlajn.ru/"
+        "page": "http://www.pravo.by/"
     },
     {
-        "page": "https://moya-translyaciya.ru/"
+        "page": "http://www.court.by/"
     },
     {
-        "page": "https://namtv.ru/"
+        "page": "http://sk.gov.by/"
     },
     {
-        "page": "https://yatele.ru/"
+        "page": "http://mvd.gov.by/"
     },
     {
-        "page": "https://xn--b1agj9af.xn--80aswg/"
+        "page": "http://www.kgb.by/"
     },
     {
-        "page": "https://politotainfo.com/"
+        "page": "http://minjust.gov.by/"
     },
     {
-        "page": "https://smido.ru/"
+        "page": "https://belnotary.by/"
     },
     {
-        "page": "http://smotrim.ru"
+        "page": "https://www.amia.by/"
     },
     {
-        "page": "http://api.smotrim.ru"
+        "page": "http://www.mil.by/ru/"
     },
     {
-        "page": "http://cdnapi.smotrim.ru"
+        "page": "http://sk.gov.by/ru"
     },
     {
-        "page": "http://cdnapi.smotrim.ru"
+        "page": "https://mvd-din.by/"
     },
     {
-        "page": "http://cdnmg-st.smotrim.ru"
+        "page": "http://www.kgk.gov.by/ru/"
     },
     {
-        "page": "http://cdnmg-st.smotrim.ru"
+        "page": "https://mvd.gov.by/"
     },
     {
-        "page": "https://eadaily.com/ru/"
+        "page": "http://gpk.gov.by/"
     },
     {
-        "page": "https://rg.ru/"
+        "page": "http://dynamo.by/"
     },
     {
-        "page": "https://www.ntv.ru/"
+        "page": "http://gosinspekciya.gov.by/"
     },
     {
-        "page": "https://www.nalog.gov.ru/"
+        "page": "https://www.pac.by/"
     },
     {
-        "page": "https://svpressa.ru/"
+        "page": "http://center.gov.by/"
     },
     {
-        "page": "https://tsargrad.tv/"
+        "page": "http://www.prokuratura.gov.by/"
     },
     {
-        "page": "https://www.ng.ru/"
+        "page": "http://www.nbrb.by/"
+    },
+    {
+        "page": "http://www.kc.gov.by/"
+    },
+    {
+        "page": "http://www.court.gov.by/"
+    },
+    {
+        "page": "http://www.rec.gov.by/"
+    },
+    {
+        "page": "http://www.house.gov.by/"
+    },
+    {
+        "page": "https://www.mart.gov.by/"
+    },
+    {
+        "page": "http://www.mas.gov.by/"
+    },
+    {
+        "page": "http://www.mjkx.gov.by/"
+    },
+    {
+        "page": "http://minzdrav.gov.by/ru/"
+    },
+    {
+        "page": "http://www.mfa.gov.by/"
+    },
+    {
+        "page": "http://www.mininform.gov.by/"
+    },
+    {
+        "page": "http://kultura.by/"
+    },
+    {
+        "page": "https://www.mlh.by/"
+    },
+    {
+        "page": "https://edu.gov.by/"
+    },
+    {
+        "page": "https://nalog.gov.by/"
+    },
+    {
+        "page": "https://mchs.gov.by/"
+    },
+    {
+        "page": "https://minpriroda.gov.by/ru/"
+    },
+    {
+        "page": "http://minprom.gov.by/"
+    },
+    {
+        "page": "https://www.mpt.gov.by/"
+    },
+    {
+        "page": "https://www.mshp.gov.by/"
+    },
+    {
+        "page": "http://www.mst.by/"
+    },
+    {
+        "page": "https://mintrans.gov.by/"
+    },
+    {
+        "page": "https://mintrud.gov.by/ru"
+    },
+    {
+        "page": "https://www.minfin.gov.by/"
+    },
+    {
+        "page": "http://www.economy.gov.by/"
+    },
+    {
+        "page": "http://minenergo.gov.by/"
+    },
+    {
+        "page": "https://minjust.gov.by/"
+    },
+    {
+        "page": "http://www.vpk.gov.by/"
+    },
+    {
+        "page": "http://www.gki.gov.by/ru/"
+    },
+    {
+        "page": "http://www.gknt.gov.by/"
+    },
+    {
+        "page": "https://gosstandart.gov.by/"
+    },
+    {
+        "page": "https://gpk.gov.by/"
+    },
+    {
+        "page": "http://www.customs.gov.by/"
+    },
+    {
+        "page": "https://belarus21.by/"
+    },
+    {
+        "page": "https://bgp.by/ru/"
+    },
+    {
+        "page": "https://www.belneftekhim.by/"
+    },
+    {
+        "page": "http://www.bellegprom.by/"
+    },
+    {
+        "page": "http://www.bellesbumprom.by/ru/"
+    },
+    {
+        "page": "https://bks.gov.by/"
+    },
+    {
+        "page": "https://www.rco.by/"
+    },
+    {
+        "page": "http://brest-region.gov.by/"
+    },
+    {
+        "page": "https://vitebsk-region.gov.by/"
+    },
+    {
+        "page": "http://gomel-region.gov.by/"
+    },
+    {
+        "page": "http://region.grodno.by/"
+    },
+    {
+        "page": "https://minsk-region.gov.by/"
+    },
+    {
+        "page": "http://mogilev-region.gov.by/"
+    },
+    {
+        "page": "https://minsk.gov.by/"
+    },
+    {
+        "page": "http://grodno-region.gov.by/ru/"
+    },
+    {
+        "page": "http://belarp.by/"
+    },
+    {
+        "page": "https://mintrud.gov.by/"
+    },
+    {
+        "page": "https://portal.gov.by/"
+    },
+    {
+        "page": "https://www.belarus.by/"
     }
 ]
