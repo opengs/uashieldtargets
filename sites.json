@@ -1,116 +1,56 @@
 [
     {
-        "page": "https://www.finam.ru/"
+        "page": "http://lenta.ru/"
     },
     {
-        "page": "https://www.cbr.ru/"
+        "page": "https://www.gazeta.ru/"
     },
     {
-        "page": "https://www.profinance.ru/"
+        "page": "https://smi2.ru/"
     },
     {
-        "page": "https://dota2.ru/"
+        "page": "https://eadaily.com/ru/"
     },
     {
-        "page": "https://www.9111.ru/"
+        "page": "https://tass.ru/"
     },
     {
-        "page": "https://mil.ru/"
+        "page": "https://russian.rt.com/"
     },
     {
-        "page": "https://www.prizyvnik.info/"
+        "page": "https://www.fontanka.ru/"
     },
     {
-        "page": "https://mockva.ru/"
-    },
-    {
-        "page": "https://www.kino-teatr.ru/"
-    },
-    {
-        "page": "https://vm.ru/"
-    },
-    {
-        "page": "https://www.kinopoisk.ru/"
-    },
-    {
-        "page": "https://klops.ru/"
-    },
-    {
-        "page": "https://www.nic.ru/"
-    },
-    {
-        "page": "http://duma.gov.ru/"
-    },
-    {
-        "page": "https://www.irk.ru/"
-    },
-    {
-        "page": "https://www.avito.ru/"
-    },
-    {
-        "page": "https://ok.ru/"
-    },
-    {
-        "page": "https://gosuslugi.ru/"
-    },
-    {
-        "page": "https://www.ozon.ru"
-    },
-    {
-        "page": "https://www.rambler.ru/"
-    },
-    {
-        "page": "https://news.mail.ru/"
-    },
-    {
-        "page": "https://www.drom.ru/"
-    },
-    {
-        "page": "https://auto.ru/"
-    },
-    {
-        "page": "https://hh.ru/"
-    },
-    {
-        "page": "https://www.dns-shop.ru/"
-    },
-    {
-        "page": "https://www.drive2.ru/"
-    },
-    {
-        "page": "https://www.sports.ru/"
-    },
-    {
-        "page": "https://sportmail.ru/"
-    },
-    {
-        "page": "https://primpress.ru/"
-    },
-    {
-        "page": "https://rp5.ru/"
-    },
-    {
-        "page": "https://mos.ru/"
-    },
-    {
-        "page": "https://www.ivi.ru/"
-    },
-    {
-        "page": "https://cian.ru/"
+        "page": "http://www.ria.ru/"
     },
     {
         "page": "https://www.yaplakal.com/"
     },
     {
-        "page": "https://moskva.mts.ru/personal"
+        "page": "https://regnum.ru/"
     },
     {
         "page": "https://rg.ru/"
     },
     {
-        "page": "https://irecommend.ru/"
+        "page": "https://www.ntv.ru/"
     },
     {
-        "page": "https://nalog.ru/"
+        "page": "https://moslenta.ru/"
+    },
+    {
+        "page": "https://www.nalog.gov.ru/"
+    },
+    {
+        "page": "https://svpressa.ru/"
+    },
+    {
+        "page": "https://tsargrad.tv/"
+    },
+    {
+        "page": "https://newsua.ru/"
+    },
+    {
+        "page": "https://www.ng.ru/"
     }
 ]
