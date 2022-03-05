@@ -1,42 +1,90 @@
 [
     {
-        "page": "http://lenta.ru/"
+        "page": "https://yapolitic.ru/"
     },
     {
-        "page": "https://www.gazeta.ru/"
+        "page": "https://60-minut.su/"
     },
     {
-        "page": "https://smi2.ru/"
+        "page": "https://rufilmtv.one/"
+    },
+    {
+        "page": "http://www.yaom.ru/"
+    },
+    {
+        "page": "https://malahov-pryamoj-efir.lol/"
+    },
+    {
+        "page": "https://rupolitshow.ru/"
+    },
+    {
+        "page": "https://ruspolitnews.ru/"
+    },
+    {
+        "page": "https://priamoi-efir.ru/"
+    },
+    {
+        "page": "https://alkatv.ru/"
+    },
+    {
+        "page": "https://www.glaz.tv/"
+    },
+    {
+        "page": "https://vecher-s-solovevym.su/"
+    },
+    {
+        "page": "https://soloviev.xyz/"
+    },
+    {
+        "page": "https://ok-solovey.ru/"
+    },
+    {
+        "page": "https://tvoj-onlajn.ru/"
+    },
+    {
+        "page": "https://moya-translyaciya.ru/"
+    },
+    {
+        "page": "https://namtv.ru/"
+    },
+    {
+        "page": "https://yatele.ru/"
+    },
+    {
+        "page": "https://xn--b1agj9af.xn--80aswg/"
+    },
+    {
+        "page": "https://politotainfo.com/"
+    },
+    {
+        "page": "https://smido.ru/"
+    },
+    {
+        "page": "http://smotrim.ru"
+    },
+    {
+        "page": "api.smotrim.ru"
+    },
+    {
+        "page": "cdnapi.smotrim.ru"
+    },
+    {
+        "page": "cdnapi.smotrim.ru"
+    },
+    {
+        "page": "cdnmg-st.smotrim.ru"
+    },
+    {
+        "page": "cdnmg-st.smotrim.ru"
     },
     {
         "page": "https://eadaily.com/ru/"
-    },
-    {
-        "page": "https://tass.ru/"
-    },
-    {
-        "page": "https://russian.rt.com/"
-    },
-    {
-        "page": "https://www.fontanka.ru/"
-    },
-    {
-        "page": "http://www.ria.ru/"
-    },
-    {
-        "page": "https://www.yaplakal.com/"
-    },
-    {
-        "page": "https://regnum.ru/"
     },
     {
         "page": "https://rg.ru/"
     },
     {
         "page": "https://www.ntv.ru/"
-    },
-    {
-        "page": "https://moslenta.ru/"
     },
     {
         "page": "https://www.nalog.gov.ru/"
@@ -48,111 +96,6 @@
         "page": "https://tsargrad.tv/"
     },
     {
-        "page": "https://newsua.ru/"
-    },
-    {
         "page": "https://www.ng.ru/"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2354"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2355"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2356"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2357"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2358"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2359"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2360"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2361"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2362"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2363"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2364"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2365"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2366"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2367"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2368"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2369"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2370"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2371"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2372"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2373"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2374"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2375"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2376"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2377"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2378"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2379"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2380"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2381"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2382"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2383"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2384"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2385"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2386"
-    },
-    {
-        "page": "https://russian.rt.com/search?q=2387"
     }
 ]
