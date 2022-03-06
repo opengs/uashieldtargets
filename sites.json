@@ -2352,14 +2352,6 @@
       "atack": 0
     },
     {
-      "id": 868,
-      "url": "http://www.acis.org.ua/",
-      "need_parse_url": 1,
-      "page": "http://www.acis.org.ua/",
-      "page_time": 0,
-      "atack": 0
-    },
-    {
       "id": 869,
       "url": "http://caves.ru/",
       "need_parse_url": 1,
@@ -5828,14 +5820,6 @@
       "url": "http://grodnonews.by/",
       "need_parse_url": 1,
       "page": "http://grodnonews.by/",
-      "page_time": 0,
-      "atack": 0
-    },
-    {
-      "id": 430,
-      "url": "http://ugmk.ua/",
-      "need_parse_url": 1,
-      "page": "http://ugmk.ua/",
       "page_time": 0,
       "atack": 0
     },
