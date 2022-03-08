@@ -1,1 +1,77 @@
-[{"page": "http://www.ria.ru/"}, {"page": "https://www.yaplakal.com/"}, {"page": "https://regnum.ru/"}, {"page": "https://moslenta.ru/"}, {"page": "https://newsua.ru/"}, {"page": "https://malahov-pryamoj-efir.lol/"}]
+[
+    {
+        "page": "https://sber.ru/"
+    },
+    {
+        "page": "https://3dsec.sberbank.ru/"
+    },
+    {
+        "page": "https://cc-host02.sbercontact.sberbank.ru/agentdesktop/"
+    },
+    {
+        "page": "https://developer.sberbank.ru"
+    },
+    {
+        "page": "https://idppsi.sberbank.ru"
+    },
+    {
+        "page": "https://kurs-mobile.sberbank.ru"
+    },
+    {
+        "page": "https://meetup.sberbank.ru"
+    },
+    {
+        "page": "https://office.sberbank.ru"
+    },
+    {
+        "page": "https://hr-ift.sberbank.ru/"
+    },
+    {
+        "page": "https://userid.sber.ru/"
+    },
+    {
+        "page": "https://sberchat.sberbank.ru/"
+    },
+    {
+        "page": "https://web1.online.sberbank.ru"
+    },
+    {
+        "page": "https://webquik.sberbank.ru"
+    },
+    {
+        "page": "https://sberprime.sber.ru/"
+    },
+    {
+        "page": "https://platformv.sber.ru/"
+    },
+    {
+        "page": "https://friend.sber.ru/"
+    },
+    {
+        "page": "https://beta.ai.sber.ru/"
+    },
+    {
+        "page": "http://sbermail-cloud.sber.ru/"
+    },
+    {
+        "page": "https://pking.sberbank.ru/"
+    },
+    {
+        "page": "https://sberapi.sbercontact.sberbank.ru/agentdesktop/"
+    },
+    {
+        "page": "https://sber247.sbercontact.sberbank.ru/"
+    },
+    {
+        "page": "https://sbercontact.sberbank.ru/"
+    },
+    {
+        "page": "https://pmcloud.sberbank.ru/"
+    },
+    {
+        "page": "https://online.sberbank.ru/"
+    },
+    {
+        "page": "https://apps.sberbank.ru/"
+    }
+]
