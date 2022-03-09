@@ -1,1 +1,71 @@
-[{"page": "https://www.VNUKOVO.ru"}, {"page": "https://svo.aero"}, {"page": "http://www.dme.ru"}, {"page": "https://www.aeroportdomodedovo.ru"}, {"page": "https://www.zia.aero"}, {"page": "https://pulkovoairport.ru"}, {"page": "https://airport-rzhevka.ru"}, {"page": "https://xn--80aafeah9bwaabcgldgz5p.xn--p1ai"}, {"page": "https://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai"}, {"page": "https://rov.aero"}, {"page": "https://krr.aero"}, {"page": "http://www.gdz.aero"}, {"page": "https://simferopol-airport.ru"}, {"page": "https://svx.aero"}]
+[
+    {
+        "page": "https://upload.dev.rt.com/"
+    },
+    {
+        "page": "https://subscribe.dev.rt.com/"
+    },
+    {
+        "page": "https://subscribe-rbth.dev.rt.com/"
+    },
+    {
+        "page": "https://rulight-russian-astalyzin.dev.rt.com/"
+    },
+    {
+        "page": "https://doc.rt.com/"
+    },
+    {
+        "page": "https://redmine.rt.com/"
+    },
+    {
+        "page": "https://mobile.dev.rt.com/"
+    },
+    {
+        "page": "https://blogx.dev.rt.com/"
+    },
+    {
+        "page": "https://auth.dev.rt.com/"
+    },
+    {
+        "page": "https://api.dev.rt.com/"
+    },
+    {
+        "page": "https://admin.dev.rt.com/"
+    },
+    {
+        "page": "https://upload.dev.rt.com/"
+    },
+    {
+        "page": "https://secure.dev.rt.com/"
+    },
+    {
+        "page": "https://rulight-russian-astalyzin.dev.rt.com/"
+    },
+    {
+        "page": "https://webdisk.dev.rt.com/"
+    },
+    {
+        "page": "https://stage.dev.rt.com/"
+    },
+    {
+        "page": "https://m.dev.rt.com/"
+    },
+    {
+        "page": "https://ftp.dev.rt.com/"
+    },
+    {
+        "page": "https://autoconfig.dev.rt.com/"
+    },
+    {
+        "page": "https://cdnv.rt.com/"
+    },
+    {
+        "page": "https://www.dev.rt.com/"
+    },
+    {
+        "page": "https://mail2.rt.com/"
+    },
+    {
+        "page": "https://staff.api.rt.com/"
+    }
+]
