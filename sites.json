@@ -1,1 +1,80 @@
-[{"page": "http://smotrim.ru"}, {"page": "https://www.gazeta.ru/"}, {"page": "https://smi2.ru/"}, {"page": "https://tass.ru/"}, {"page": "https://russian.rt.com/"}, {"page": "https://www.fontanka.ru/"}]
+[
+    {
+        "page": "https://tass.ru"
+    },
+    {
+        "page": "https://otr-online.ru"
+    },
+    {
+        "page": "https://radiovesti.ru"
+    },
+    {
+        "page": "https://rtr-planeta.com"
+    },
+    {
+        "page": "https://tsargrad.tv"
+    },
+    {
+        "page": "https://rossaprimavera.ru"
+    },
+    {
+        "page": "https://rusvesna.su"
+    },
+    {
+        "page": "https://enovosty.com"
+    },
+    {
+        "page": "https://rusplt.ru"
+    },
+    {
+        "page": "https://aviasales.ru"
+    },
+    {
+        "page": "https://krsk.sibnovosti.ru"
+    },
+    {
+        "page": "https://smotrim.ru"
+    },
+    {
+        "page": "https://vesti.ru"
+    },
+    {
+        "page": "https://kp.ru"
+    },
+    {
+        "page": "https://1tv.ru"
+    },
+    {
+        "page": "https://lenta.ru"
+    },
+    {
+        "page": "https://www.gazeta.ru"
+    },
+    {
+        "page": "https://fedpress.ru"
+    },
+    {
+        "page": "https://iz.ru"
+    },
+    {
+        "page": "https://russian.rt.com"
+    },
+    {
+        "page": "https://aif.ru"
+    },
+    {
+        "page": "https://anna-news.info"
+    },
+    {
+        "page": "https://rg.ru"
+    },
+    {
+        "page": "https://ngs.ru"
+    },
+    {
+        "page": "https://www.mirtv.ru"
+    },
+    {
+        "page": "https://oborona.ru"
+    }
+]
