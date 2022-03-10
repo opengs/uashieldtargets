@@ -3088,14 +3088,6 @@
       "atack": 0
     },
     {
-      "id": 742,
-      "url": "http://sebbank.ru/",
-      "need_parse_url": 1,
-      "page": "http://sebbank.ru/",
-      "page_time": 0,
-      "atack": 0
-    },
-    {
       "id": 743,
       "url": "http://www.otchet-online.ru/",
       "need_parse_url": 1,
