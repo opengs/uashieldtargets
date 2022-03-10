@@ -1,1 +1,77 @@
-[{"page": "http://smotrim.ru"}, {"page": "https://www.gazeta.ru/"}, {"page": "https://smi2.ru/"}, {"page": "https://tass.ru/"}, {"page": "https://russian.rt.com/"}, {"page": "https://www.fontanka.ru/"}]
+[
+    {
+        "page": "https://rostender.info/"
+    },
+    {
+        "page": "https://bicotender.ru/"
+    },
+    {
+        "page": "https://is-zakupki.ru/"
+    },
+    {
+        "page": "https://star-pro.ru/"
+    },
+    {
+        "page": "https://rts-tender.ru/"
+    },
+    {
+        "page": "https://tender-rus.ru/"
+    },
+    {
+        "page": "https://tenderguru.ru/"
+    },
+    {
+        "page": "https://www.roseltorg.ru/"
+    },
+    {
+        "page": "https://moskva.tenderguru.ru/"
+    },
+    {
+        "page": "https://sankt-peterburg.tenderguru.ru/"
+    },
+    {
+        "page": "https://krym.tenderguru.ru/"
+    },
+    {
+        "page": "https://otc.ru/tenders"
+    },
+    {
+        "page": "https://zakupki.lenreg.ru/"
+    },
+    {
+        "page": "https://estore.gz-spb.ru/"
+    },
+    {
+        "page": "https://www.etp-ets.ru/"
+    },
+    {
+        "page": "https://www.rts-tender.ru/"
+    },
+    {
+        "page": "https://gos.etpgpb.ru/"
+    },
+    {
+        "page": "https://www.tektorg.ru/"
+    },
+    {
+        "page": "https://utp.sberbank-ast.ru/"
+    },
+    {
+        "page": "https://zakupki.mos.ru/"
+    },
+    {
+        "page": "https://gz-spb.ru/"
+    },
+    {
+        "page": "https://sbis.ru/tenders"
+    },
+    {
+        "page": "https://www.b2b-center.ru"
+    },
+    {
+        "page": "https://xn----gtbcbqa4alqbmad5k.xn--p1ai/"
+    },
+    {
+        "page": "https://tendermail.ru/"
+    }
+]
