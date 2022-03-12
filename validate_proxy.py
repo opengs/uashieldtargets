@@ -9,7 +9,7 @@ from urllib3 import disable_warnings
 import requests
 
 
-PARALLEL_COUNT = 20
+PARALLEL_COUNT = 200
 
 
 
@@ -27,7 +27,7 @@ def _load_proxies(file_name: str):
                         f'{proxy_data["ip"]}'
                         for proxy_data in json.load(file)
                     ]
-        
+        print(f"Proxy count {len(proxies)}")
         return(proxies)
 
 
@@ -56,8 +56,10 @@ async def start_one(url: str):
                 async with aiohttp.ClientSession() as session:
                     status = await request(session, url, proxy_scheme)
                     # print(f'{proxy}    {status}')
-                    if status == 200:
+                    if (status >= 200) and (status < 300):
                         valid_proxies.append({"scheme":scheme,"ip":proxy})
+                    # else:
+                        
 
         except Exception as e:
             logger.warning(f'Exception, retrying, exception={e}')
@@ -80,8 +82,8 @@ def main():
     counter = len(proxies)
     loop = asyncio.get_event_loop()
     union = asyncio.gather(*[
-        # start_one("https://goolge.com")
-        start_one("https://postman-echo.com/get")
+        start_one("https://github.com")
+        # start_one("https://postman-echo.com/get")
         for _ in range(PARALLEL_COUNT)
     ])
     loop.run_until_complete(union)
