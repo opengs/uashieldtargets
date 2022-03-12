@@ -51,7 +51,7 @@ async def start_one(url: str):
     while cntr >= 0:
         try:
             proxy = proxies[cntr]
-            for scheme in ["http", "https"]:
+            for scheme in ["http", "https","socks5","socks4"]:
                 proxy_scheme = f'{scheme}://{proxy}'
                 async with aiohttp.ClientSession() as session:
                     status = await request(session, url, proxy_scheme)
