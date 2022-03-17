@@ -1,32 +1,23 @@
 [
     {
-        "page": "http://www.gazeta.ru"
+        "page": "https://ria.ru/"
     },
     {
-        "page": "http://www.pravda.ru"
+        "page": "https://lenta.ru/"
     },
     {
-        "page": "http://www.vedomosti.ru"
+        "page": "https://kp.ru/"
     },
     {
-        "page": "http://fedpress.ru"
+        "page": "https://iz.ru/"
     },
     {
-        "page": "http://news-front.info"
+        "page": "https://www.gazeta.ru/"
     },
     {
-        "page": "https://www.gazeta.ru"
+        "page": "https://tass.ru/"
     },
     {
-        "page": "https://www.pravda.ru"
-    },
-    {
-        "page": "https://www.vedomosti.ru"
-    },
-    {
-        "page": "https://fedpress.ru"
-    },
-    {
-        "page": "https://news-front.info"
+        "page": "https://rg.ru/"
     }
 ]
