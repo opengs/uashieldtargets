@@ -19328,6 +19328,22 @@
         "scheme": "socks5"
     },
     {
+        "ip": "195.158.197.13:1043",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "101.42.102.65:33980",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "49.51.69.212:21127",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "103.251.214.167:6667",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
