@@ -18128,6 +18128,38 @@
         "scheme": "socks5"
     },
     {
+        "ip": "103.250.166.12:6667",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "218.89.37.196:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "218.89.37.196:7300",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "43.129.222.186:38080",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "167.99.153.77:35112",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "37.139.243.32:1080",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "46.101.5.73:47521",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "119.29.159.49:29337",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
