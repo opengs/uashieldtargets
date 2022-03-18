@@ -29384,6 +29384,10 @@
         "scheme": "socks5"
     },
     {
+        "ip": "43.224.10.30:6667",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
