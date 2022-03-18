@@ -31168,6 +31168,14 @@
         "scheme": "socks5"
     },
     {
+        "ip": "101.71.154.251:1080",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "118.242.27.66:7300",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
