@@ -19744,6 +19744,30 @@
         "scheme": "socks5"
     },
     {
+        "ip": "104.131.8.62:30749",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "89.201.4.136:33427",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "159.89.228.66:52044",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "89.216.101.36:5678",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "192.252.209.155:14455",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "159.89.228.212:53613",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
