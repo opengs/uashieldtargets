@@ -14160,6 +14160,38 @@
         "scheme": "socks5"
     },
     {
+        "ip": "61.174.68.160:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "183.230.141.185:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "78.46.37.212:64286",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "117.102.84.142:443",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "113.57.85.34:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "150.109.148.234:1234",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "43.154.54.110:10808",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "123.7.81.157:7302",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
