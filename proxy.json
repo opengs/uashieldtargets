@@ -29968,6 +29968,14 @@
         "scheme": "socks5"
     },
     {
+        "ip": "194.87.102.102:1111",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "120.211.6.109:7302",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
