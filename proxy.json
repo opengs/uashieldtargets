@@ -33888,6 +33888,22 @@
         "scheme": "socks5"
     },
     {
+        "ip": "117.156.203.11:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "27.116.51.181:6667",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "120.87.92.2:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "61.90.185.171:7302",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
