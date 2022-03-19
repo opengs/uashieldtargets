@@ -34660,6 +34660,14 @@
         "scheme": "socks5"
     },
     {
+        "ip": "136.243.106.140:10081",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "43.129.182.197:6969",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
