@@ -32588,6 +32588,14 @@
         "scheme": "socks5"
     },
     {
+        "ip": "198.27.108.198:8020",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "113.108.247.146:20086",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
