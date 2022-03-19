@@ -33008,6 +33008,10 @@
         "scheme": "socks5"
     },
     {
+        "ip": "109.248.175.223:1080",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
