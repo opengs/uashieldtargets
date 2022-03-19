@@ -33820,6 +33820,10 @@
         "scheme": "socks5"
     },
     {
+        "ip": "91.194.3.213:49538",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
