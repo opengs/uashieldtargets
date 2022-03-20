@@ -7832,6 +7832,38 @@
         "scheme": "socks5"
     },
     {
+        "ip": "193.169.4.184:10801",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "72.195.34.59:4145",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "198.1.94.46:15456",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "47.243.34.167:10705",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "36.7.79.105:7302",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "98.162.25.29:31679",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "43.128.36.71:3389",
+        "scheme": "socks5"
+    },
+    {
+        "ip": "72.195.34.35:27360",
+        "scheme": "socks5"
+    },
+    {
         "ip": "vika.onlinesim.ru:18452",
         "scheme": "http",
         "auth": "ppkfyd9x:k1bxs7kg"
