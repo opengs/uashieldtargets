@@ -1,3 +1,5 @@
 [
-    "https://raw.githubusercontent.com/opengs/uashieldtargets/v2/sites.json"
+    {
+        "url": "https://raw.githubusercontent.com/opengs/uashieldtargets/v2/sites.json" 
+    }
 ]
