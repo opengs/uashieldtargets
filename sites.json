@@ -1,6 +1,122 @@
 [
   {
-    "method": "get",
-    "page": "https://rusvesna.su"
+      "method": "get",
+      "page": "https://60-minut.su/"
+  },
+  {
+      "method": "get",
+      "page": "https://rufilmtv.one/"
+  },
+  {
+      "method": "get",
+      "page": "http://www.yaom.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://rupolitshow.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://ruspolitnews.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://priamoi-efir.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://alkatv.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://www.glaz.tv/"
+  },
+  {
+      "method": "get",
+      "page": "https://vecher-s-solovevym.su/"
+  },
+  {
+      "method": "get",
+      "page": "https://soloviev.xyz/"
+  },
+  {
+      "method": "get",
+      "page": "https://ok-solovey.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://tvoj-onlajn.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://moya-translyaciya.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://namtv.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://yatele.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://xn--b1agj9af.xn--80aswg/"
+  },
+  {
+      "method": "get",
+      "page": "https://politotainfo.com/"
+  },
+  {
+      "method": "get",
+      "page": "https://smido.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://eadaily.com/ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://rg.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://www.ntv.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://www.nalog.gov.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://svpressa.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://tsargrad.tv/"
+  },
+  {
+      "method": "get",
+      "page": "https://www.ng.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://yapolitic.ru/"
+  },
+  {
+      "method": "get",
+      "page": "http://www.soloviev.live/"
+  },
+  {
+      "method": "get",
+      "page": "https://www.bfm.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://voenpro.ru/"
+  },
+  {
+      "method": "get",
+      "page": "https://otr-online.ru/"
   }
 ]
