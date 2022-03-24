@@ -1,60 +1,70 @@
 [
  {
-  "ip": "vika.onlinesim.ru:18452",
+  "ip": "vika.onlinesim.ru",
+  "port": 18452,
   "scheme": "socks5",
   "username": "ppkfyd9x",
   "password": "k1bxs7kg"
  },
  {
-  "ip": "vika.onlinesim.ru:17783",
+  "ip": "vika.onlinesim.ru",
+  "port": 17783,
   "scheme": "socks5",
   "username": "nscu346y",
   "password": "ozmenh1c"
  },
  {
-  "ip": "vika.onlinesim.ru:14616",
+  "ip": "vika.onlinesim.ru",
+  "port": 14616,
   "scheme": "socks5",
   "username": "6ynb7bkb",
   "password": "u4x7cfgk"
  },
  {
-  "ip": "vika.onlinesim.ru:12769",
+  "ip": "vika.onlinesim.ru",
+  "port": 12769,
   "scheme": "socks5",
   "username": "f2suq51n",
   "password": "dpafm2cz"
  },
  {
-  "ip": "vika.onlinesim.ru:12308",
+  "ip": "vika.onlinesim.ru",
+  "port": 12308,
   "scheme": "socks5",
   "username": "k1t286tq",
   "password": "suh2kqwx"
  },
  {
-  "ip": "vika.onlinesim.ru:12227",
+  "ip": "vika.onlinesim.ru",
+  "port": 12227,
   "scheme": "socks5",
   "username": "3omweytv",
   "password": "pwqmdqdb"
  },
  {
-  "ip": "vika.onlinesim.ru:18715",
+  "ip": "vika.onlinesim.ru",
+  "port": 18715,
   "scheme": "socks5",
   "username": "bg7zeuse",
   "password": "71mxacrf"
  },
  {
-  "ip": "vika.onlinesim.ru:18605",
+  "ip": "vika.onlinesim.ru",
+  "port": 18605,
   "scheme": "socks5",
   "username": "9azs26oq",
   "password": "9u7qvz5w"
  },
  {
-  "ip": "vika.onlinesim.ru:16362",
+  "ip": "vika.onlinesim.ru",
+  "port": 16362,
   "scheme": "socks5",
   "username": "q2bdk9e1",
   "password": "ygp8gqke"
  },
  {
-  "ip": "vika.onlinesim.ru:18719",
+  "ip": "vika.onlinesim.ru",
+  "port": 18719,
   "scheme": "socks5",
   "username": "qatga7aa",
   "password": "ev6vty28"
