@@ -1,1 +1,206 @@
-[{"method": "get", "page": "https://12june.tass.ru"}, {"method": "get", "page": "https://45-68.tass.ru"}, {"method": "get", "page": "https://academy.tass.ru"}, {"method": "get", "page": "https://accents-dev.tass.ru"}, {"method": "get", "page": "https://activesync.tass.ru"}, {"method": "get", "page": "https://adfs-lab.tass.ru"}, {"method": "get", "page": "https://afrika-v-slovah.tass.ru"}, {"method": "get", "page": "https://airgroups-maks.tass.ru"}, {"method": "get", "page": "https://altruism.tass.ru"}, {"method": "get", "page": "https://api.tass.ru"}, {"method": "get", "page": "https://api-corr.tass.ru"}, {"method": "get", "page": "https://appspace01.tass.ru"}, {"method": "get", "page": "https://armata-tank.tass.ru"}, {"method": "get", "page": "https://armiya-china.tass.ru"}, {"method": "get", "page": "https://cdn.tass.ru"}, {"method": "get", "page": "https://cdn1.tass.ru"}, {"method": "get", "page": "https://cdn2.tass.ru"}, {"method": "get", "page": "https://cdn3.tass.ru"}, {"method": "get", "page": "https://cdn4.tass.ru"}, {"method": "get", "page": "https://conference.tass.ru"}, {"method": "get", "page": "https://cybersecurity.tass.ru"}, {"method": "get", "page": "https://declaration1868.tass.ru"}, {"method": "get", "page": "https://den-mera.tass.ru"}, {"method": "get", "page": "https://dialog.tass.ru"}, {"method": "get", "page": "https://dmz.tass.ru"}, {"method": "get", "page": "https://dva-berega.tass.ru"}, {"method": "get", "page": "https://elections2018.tass.ru"}, {"method": "get", "page": "https://gasification.tass.ru"}, {"method": "get", "page": "https://gpbl.spec.tass.ru"}, {"method": "get", "page": "https://ground.parade2018.tass.ru"}, {"method": "get", "page": "https://gubkin90.tass.ru"}, {"method": "get", "page": "https://hainan.tass.ru"}, {"method": "get", "page": "https://il276.tass.ru"}, {"method": "get", "page": "https://internship.tass.ru"}, {"method": "get", "page": "https://iskander.tass.ru"}, {"method": "get", "page": "https://itogi-china.tass.ru"}, {"method": "get", "page": "https://ivanovo.tass.ru"}, {"method": "get", "page": "https://japan.tass.ru"}, {"method": "get", "page": "https://ka52.tass.ru"}, {"method": "get", "page": "https://kds.tass.ru"}, {"method": "get", "page": "https://kompartiya.tass.ru"}, {"method": "get", "page": "https://koordinator-tatyana.liza-alert.tass.ru"}, {"method": "get", "page": "https://kosmos2016.tass.ru"}, {"method": "get", "page": "https://krym-v-cifrah.tass.ru"}, {"method": "get", "page": "https://kuzbass.tass.ru"}, {"method": "get", "page": "https://mail.tass.ru"}, {"method": "get", "page": "https://melnik.tass.ru"}, {"method": "get", "page": "https://mig35.tass.ru"}, {"method": "get", "page": "https://mnpz80.tass.ru"}, {"method": "get", "page": "https://moibiz-discuss.tass.ru"}, {"method": "get", "page": "https://moscownews.tass.ru"}, {"method": "get", "page": "https://most.tass.ru"}, {"method": "get", "page": "https://parad2017.tass.ru"}, {"method": "get", "page": "https://putin.tass.ru"}, {"method": "get", "page": "https://putin15.tass.ru"}, {"method": "get", "page": "https://putin2020.tass.ru"}, {"method": "get", "page": "https://putin65.tass.ru"}]
+[
+    {
+        "method": "get",
+        "page": "https://online.sberbank.ru/CSAFront/index.do"
+    },
+    {
+        "method": "get",
+        "page": "https://online.vtb.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://my.pochtabank.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.gpb.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://private.auth.alfabank.ru/passport/cerberus-mini-blue/dashboard-blue/username"
+    },
+    {
+        "method": "get",
+        "page": "https://online.rshb.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://halvacard.ru/lk"
+    },
+    {
+        "method": "get",
+        "page": "https://online.sovcombank.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://bk.sovcombank.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://ib.open.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.raiffeisen.ru/login/main"
+    },
+    {
+        "method": "get",
+        "page": "https://online.rosbank.ru/ibank/home"
+    },
+    {
+        "method": "get",
+        "page": "https://ssoauth.mtsbank.ru/authorize"
+    },
+    {
+        "method": "get",
+        "page": "https://ib.psbank.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://ibank.mmbank.ru/ibank2/#/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.otpbank.ru/login/product-auth"
+    },
+    {
+        "method": "get",
+        "page": "https://i.bspb.ru/auth"
+    },
+    {
+        "method": "get",
+        "page": "https://z.tochka.com/login/#/?from_menu=index"
+    },
+    {
+        "method": "get",
+        "page": "https://online.homecredit.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.uralsib.ru/login/"
+    },
+    {
+        "method": "get",
+        "page": "https://login.avangard.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://online.rsb.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://www.citibank.ru/RUGCB/JSO/signon/flow.action?locale=ru_RU"
+    },
+    {
+        "method": "get",
+        "page": "https://online.forabank.ru/rich/auth"
+    },
+    {
+        "method": "get",
+        "page": "https://online.akbars.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://ib.skbbank.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://bank-online-kabinet.ru/emb-bank-lichnyj-kabinet/"
+    },
+    {
+        "method": "get",
+        "page": "https://enter.unicredit.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.crediteurope.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://online.cetelem.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://ib.minbank.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.absolutbank.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://online.mkb.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://smpbank.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://online.bankofkazan.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.bankauto.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://i.lockobank.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.vtb.ru/login"
+    },
+    {
+        "method": "get",
+        "page": "https://i.zenit.ru/login?next=/"
+    },
+    {
+        "method": "get",
+        "page": "https://www.bystrobank.ru/cabinet/web/cabinet.php"
+    },
+    {
+        "method": "get",
+        "page": "https://www.centrinvest.ru/ru/fiz/internet-bank/"
+    },
+    {
+        "method": "get",
+        "page": "https://elf.faktura.ru/elf/app/?site=nskbl"
+    },
+    {
+        "method": "get",
+        "page": "https://dbo.bankperm.ru/ibank2/#/"
+    },
+    {
+        "method": "get",
+        "page": "https://online.genbank.ru/gbonline/Account/Login?ReturnUrl=%2fgbonline%2f#/gbonline"
+    },
+    {
+        "method": "get",
+        "page": "https://ibank2.genbank.ru/ibank2/#/"
+    },
+    {
+        "method": "get",
+        "page": "https://www.chelindbank.ru/ib2/login.aspx"
+    },
+    {
+        "method": "get",
+        "page": "https://orbank.ru/internet/"
+    },
+    {
+        "method": "get",
+        "page": "https://business.faktura.ru/f2b/"
+    },
+    {
+        "method": "get",
+        "page": "https://lk.prostobank.online/rich/auth"
+    },
+    {
+        "method": "get",
+        "page": "https://my.bank-hlynov.ru/login/"
+    },
+    {
+        "method": "get",
+        "page": "https://my.modulbank.ru/#/signin"
+    }
+]
