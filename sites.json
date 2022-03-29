@@ -16,7 +16,8 @@
         "page": "https://oplata.qiwi.com"
     },
     {
-        "method": "get",
-        "page": "https://p2p.qiwi.com"
+        "method": "udp_flood",
+        "ip": "95.173.128.77",
+        "port": 53
     }
 ]
