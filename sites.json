@@ -1,1 +1,22 @@
-[{"method": "get", "page": "https://10.rt.com"}, {"method": "get", "page": "https://rulight-russian-astalyzin.dev.rt.com/"}, {"method": "get", "page": "https://upload.dev.rt.com/"}, {"method": "get", "page": "https://actualidad.rt.com"}, {"method": "get", "page": "https://assange.rt.com"}, {"method": "get", "page": "https://backend-chtd.rt.com"}, {"method": "get", "page": "https://catalog.rt.com"}, {"method": "get", "page": "https://cdn.rt.com"}, {"method": "get", "page": "https://cdni.rt.com"}, {"method": "get", "page": "https://cdnmg.vesti.ru"}, {"method": "get", "page": "https://cdnv.rt.com"}, {"method": "get", "page": "https://chtd.rt.com"}, {"method": "get", "page": "https://fakecheck.rt.com"}, {"method": "get", "page": "https://img.rt.com"}, {"method": "get", "page": "https://mail2.rt.com"}, {"method": "get", "page": "https://mailad.rt.com"}, {"method": "get", "page": "https://olymp.api.rt.com"}, {"method": "get", "page": "https://rus.rt.com"}, {"method": "get", "page": "https://russian.rt.com"}, {"method": "get", "page": "https://staff.api.rt.com"}, {"method": "get", "page": "https://www.rt.com"}, {"method": "get", "page": "https://www.rtd.rt.com"}, {"method": "get", "page": "https://www.dev.rt.com/"}, {"method": "get", "page": "https://subscribe.dev.rt.com/"}, {"method": "get", "page": "https://subscribe-rbth.dev.rt.com/"}, {"method": "get", "page": "https://doc.rt.com/"}, {"method": "get", "page": "https://redmine.rt.com/"}, {"method": "get", "page": "https://mobile.dev.rt.com/"}, {"method": "get", "page": "https://blogx.dev.rt.com/"}, {"method": "get", "page": "https://auth.dev.rt.com/"}, {"method": "get", "page": "https://api.dev.rt.com/"}, {"method": "get", "page": "https://admin.dev.rt.com/"}, {"method": "get", "page": "https://secure.dev.rt.com/"}, {"method": "get", "page": "https://webdisk.dev.rt.com/"}, {"method": "get", "page": "https://stage.dev.rt.com/"}, {"method": "get", "page": "https://m.dev.rt.com/"}, {"method": "get", "page": "https://ftp.dev.rt.com/"}, {"method": "get", "page": "https://autoconfig.dev.rt.com/"}, {"method": "get", "page": "https://rupolitshow.ru/"}, {"method": "get", "page": "https://ruspolitnews.ru/"}, {"method": "get", "page": "https://priamoi-efir.ru/"}, {"method": "get", "page": "https://www.glaz.tv/"}, {"method": "get", "page": "https://vecher-s-solovevym.su/"}, {"method": "get", "page": "https://soloviev.xyz/"}, {"method": "get", "page": "https://ok-solovey.ru/"}, {"method": "get", "page": "https://tvoj-onlajn.ru/"}, {"method": "get", "page": "https://moya-translyaciya.ru/"}, {"method": "get", "page": "https://yatele.ru/"}, {"method": "get", "page": "https://xn--b1agj9af.xn--80aswg/"}, {"method": "get", "page": "https://smido.ru/"}, {"method": "get", "page": "https://eadaily.com/ru/"}, {"method": "get", "page": "https://rg.ru/"}, {"method": "get", "page": "https://www.ntv.ru/"}, {"method": "get", "page": "https://svpressa.ru/"}, {"method": "get", "page": "https://yapolitic.ru/"}, {"method": "get", "page": "https://voenpro.ru/"}, {"method": "get", "page": "https://otr-online.ru/"}, {"method": "get", "page": "https://rossgram.ru/"}]
+[
+    {
+        "method": "get",
+        "page": "https://qiwi.com"
+    },
+    {
+        "method": "get",
+        "page": "https://checkout.qiwi.com"
+    },
+    {
+        "method": "get",
+        "page": "https://my.qiwi.com"
+    },
+    {
+        "method": "get",
+        "page": "https://oplata.qiwi.com"
+    },
+    {
+        "method": "get",
+        "page": "https://p2p.qiwi.com"
+    }
+]
