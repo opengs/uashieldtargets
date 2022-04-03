@@ -1,1 +1,90 @@
-[{"method": "get", "page": "http://smotrim.ru"}, {"method": "get", "page": "https://www.gazeta.ru/"}, {"method": "get", "page": "https://smi2.ru/"}, {"method": "get", "page": "https://tass.ru/"}, {"method": "get", "page": "https://russian.rt.com/"}, {"method": "get", "page": "https://www.fontanka.ru/"}, {"method": "get", "page": "http://www.ria.ru/"}, {"method": "get", "page": "https://www.yaplakal.com/"}, {"method": "get", "page": "https://regnum.ru/"}, {"method": "get", "page": "https://moslenta.ru/"}, {"method": "get", "page": "https://newsua.ru/"}, {"method": "get", "page": "https://malahov-pryamoj-efir.lol/"}, {"method": "get", "page": "https://rossgram.ru/"}]
+[
+    {
+        "method": "get",
+        "page": "http://mercury.vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "http://api.vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://mail.vetrf.ru/mail/"
+    },
+    {
+        "method": "get",
+        "page": "https://ivis-sso.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "http://assol-express.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://argus.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://www.vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://idp.vetrf.ru/idp/profile/SAML2/POST/SSO?execution=e1s1"
+    },
+    {
+        "method": "get",
+        "page": "https://vetrf.ru/vetrf-forum/forums/list.page"
+    },
+    {
+        "method": "get",
+        "page": "https://duma.vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://vesta.vetrf.ru/"
+    },
+    {
+        "method": "get",
+        "page": "https://irena.vetrf.ru/irena/operatorui?_action=clearRequestsListMedicine"
+    },
+    {
+        "method": "get",
+        "page": "https://assol.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://galen.vetrf.ru/#/"
+    },
+    {
+        "method": "get",
+        "page": "https://sirano.vetrf.ru/index"
+    },
+    {
+        "method": "get",
+        "page": "https://atlas.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://aplms.vetrf.ru/pub/"
+    },
+    {
+        "method": "get",
+        "page": "https://accounts.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://cerberus.vetrf.ru/cerberus/"
+    },
+    {
+        "method": "get",
+        "page": "https://ecert.vetrf.ru"
+    },
+    {
+        "method": "get",
+        "page": "https://help.vetrf.ru/wiki/"
+    }
+]
