@@ -4,16 +4,17 @@
         "page": "https://qiwi.com"
     },
     {
-        "method": "get",
-        "page": "https://checkout.qiwi.com"
-    },
-    {
-        "method": "get",
-        "page": "https://my.qiwi.com"
-    },
-    {
-        "method": "get",
-        "page": "https://oplata.qiwi.com"
+        "method": "dns_flood",
+        "name": "mopmr.org",
+        "ip": "176.99.13.12",
+        "port": 53,
+        "domains": [
+            "mopmr.org",
+            "president.gospmr.org",
+            "gov-pmr.org",
+            "mfa-pmr.org",
+            "vspmr.org"
+        ]
     },
     {
         "method": "udp_flood",
