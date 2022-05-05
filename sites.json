@@ -1,1 +1,117 @@
-[{"method": "get", "page": "https://egais.ru"}, {"method": "get", "page": "https://service.egais.ru"}, {"method": "get", "page": "https://check.egais.ru"}, {"method": "get", "page": "https://nfo-report.1c.ru"}, {"method": "get", "page": "http://downloads.1c.ru"}, {"method": "get", "page": "https://v8.1c.ru"}, {"method": "get", "page": "https://downloads.v8.1c.ru"}, {"method": "get", "page": "https://login.1c.ru/login"}, {"method": "get", "page": "https://reputils.1c.ru"}, {"method": "get", "page": "http://regservice.1c.ru/regservice/regservice.asmx?WSDL"}, {"method": "get", "page": "http://regservice.1c.ru/regservice/regservice.asmx"}, {"method": "get", "page": "https://torg.1c.ru/equipment/onlayn-kassy/?utm_source=its&utm_medium=tmenu"}, {"method": "get", "page": "http://online.1c.ru/catalog/products"}, {"method": "get", "page": "https://its.1c.ru"}, {"method": "get", "page": "https://regservice.keydisk.ru"}, {"method": "get", "page": "https://callback.keydisk.ru"}, {"method": "get", "page": "http://report.keydisk.ru"}, {"method": "get", "page": "https://nsqadmin.1c-edo.keydisk.ru"}, {"method": "get", "page": "https://invitations.1c-edo.keydisk.ru"}, {"method": "get", "page": "http://f4.fss.ru"}, {"method": "get", "page": "http://docs.fss.ru"}, {"method": "get", "page": "https://eln.fss.ru"}, {"method": "get", "page": "https://sedo.fss.ru"}, {"method": "get", "page": "https://lk.fss.ru"}, {"method": "get", "page": "https://websbor.gks.ru/online"}, {"method": "get", "page": "https://online.gks.ru/online"}, {"method": "get", "page": "https://www.cryptopro.ru"}, {"method": "get", "page": "https://getserial.infotecs.ru"}]
+[
+    {
+        "method": "get",
+        "page": "https://www.cdek.ru"
+    },
+    {
+      "method": "get",
+      "page": "https://ff.cdek.ru/"
+  },
+    {
+      "method": "get",
+      "page": "https://cdek.by"
+    },
+    {
+    "method": "get",
+    "page": "https://ek5.cdek.ru"
+    },
+    {
+      "method": "get",
+      "page": "http://register.cdek.ru"
+    },
+    {
+      "method": "get",
+      "page": "https://lk.cdek.ru/user/"
+    },
+    {
+        "method": "get",
+        "name": "CDEK (search engine)",
+        "page": "https://www.cdek.ru/ru/search?searchid=2353167&text=%%%text%%%&web=0",
+        "randomGenerators": [
+            {
+                "type": "string",
+                "name": "text",
+                "minLength": 3,
+                "maxLength": 15
+            }
+        ]
+    },
+    {
+      "method": "get",
+      "name": "CDEK (search engine)",
+      "page": "https://www.cdek.by/ru/search?searchid=2353167&text=%%%text%%%&web=0",
+      "randomGenerators": [
+          {
+              "type": "string",
+              "name": "text",
+              "minLength": 3,
+              "maxLength": 15
+          }
+      ]
+  },
+  {
+    "method": "get",
+    "name": "CDEK (search engine)",
+    "page": "https://www.cdek.ru/ru/%%%text%%%&",
+    "randomGenerators": [
+        {
+            "type": "string",
+            "name": "text",
+            "minLength": 3,
+            "maxLength": 15
+        }
+    ]
+  },
+  {
+    "method": "get",
+    "name": "CDEK (search engine)",
+    "page": "https://www.cdek.by/ru/%%%text%%%&",
+    "randomGenerators": [
+        {
+            "type": "string",
+            "name": "text",
+            "minLength": 3,
+            "maxLength": 15
+        }
+    ]
+  },
+  {
+    "method": "get",
+    "name": "CDEK (search engine)",
+    "page": "https://lk.cdek.ru/user/%%%text%%%&",
+    "randomGenerators": [
+        {
+            "type": "string",
+            "name": "text",
+            "minLength": 3,
+            "maxLength": 15
+        }
+    ]
+  },
+  {
+    "method": "get",
+    "name": "CDEK (search engine)",
+    "page": "https://help-lk.cdek.ru/search.html?searchQuery=%%%text%%%&",
+    "randomGenerators": [
+        {
+            "type": "string",
+            "name": "text",
+            "minLength": 3,
+            "maxLength": 15
+        }
+    ]
+  },
+  {
+    "method": "get",
+    "name": "CDEK (search engine)",
+    "page": "https://ff.cdek.ru/%%%text%%%&",
+    "randomGenerators": [
+        {
+            "type": "string",
+            "name": "text",
+            "minLength": 3,
+            "maxLength": 15
+        }
+    ]
+  }
+  ]
